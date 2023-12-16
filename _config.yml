@@ -30,9 +30,9 @@ authors:
     display_name: 번역하는 개발자   
     avatar: 'assets/images/avatar-bomber.jpg'
     email: codelabor@gmail.com
-    web: https://about.me/codelabor
+    web: https://litt.ly/codelabor
     twitter: https://twitter.com/codelabor
-    description: "잡담과 스포를 담당합니다."  
+    description: "개발하기 싫을 땐 번역합니다"  
 
 # Plugins
 plugins:
@@ -51,7 +51,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 15
 paginate_path: /page:num/
     
 # Other
