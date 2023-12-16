@@ -1,14 +1,12 @@
 ## 설치 및 설정 방법
-
-* Ruby 2.6 버전 사용할 것
-* Windows download: https://rubyinstaller.org/downloads/ 
+* Ruby 3.2.2-1 버전 다운로드: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
+* 3 - MSYS2 and MINGW development toolchain 선택
 
 ```
-gem install bundler:2.0.1
+gem install bundler
 gem install bundle
-bundle update --bundler
 bundle install
-bundle add webrick
+bundle update
 bundle exec jekyll serve
 ```
 
