@@ -1,7 +1,7 @@
 ---
 layout: page
-# title: 고객지원
-title: Support
+# title: Support
+title: 고객지원
 permalink: /support
 comments: false
 ---
