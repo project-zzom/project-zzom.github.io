@@ -9,6 +9,8 @@ image-caption:
 description: "본 내용에는 담지 못했지만 함께 보면 도움될 자료"
 featured: false
 hidden: false
+beforetoc: 
+excerpt: 
 toc: true
 comments: true
 rating: # 1~5까지 점수

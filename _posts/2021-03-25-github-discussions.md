@@ -10,6 +10,7 @@ description: "GitHub 이슈로 질문 게시판 만들었는데, GitHub 디스�
 featured: false
 hidden: false
 beforetoc: 
+excerpt: 
 toc: true
 comments: true
 rating: # 1~5까지 점수

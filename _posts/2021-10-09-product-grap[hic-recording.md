@@ -8,7 +8,8 @@ image: assets/images/products/graphic-recording/mockup.png
 description: 
 featured: false
 hidden: false
-beforetoc: 
+beforetoc: 그래픽 레코딩은 회의나 강연 내용을 실시간에 가시화하는 기법으로, 생각을 공유하거나 문제를 발견하는 등, 커뮤니케이션 활성화에 도움 된다.
+excerpt: 그래픽 레코딩은 회의나 강연 내용을 실시간에 가시화하는 기법으로, 생각을 공유하거나 문제를 발견하는 등, 커뮤니케이션 활성화에 도움 된다.
 toc: true
 comments: true
 rating: # 1~5까지 점수

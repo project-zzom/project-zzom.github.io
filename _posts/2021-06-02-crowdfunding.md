@@ -9,6 +9,8 @@ image-caption:
 description: "'처음 배우는 그래픽 레코딩' 크라우드펀딩 스토리 공개"
 featured: false
 hidden: false
+beforetoc: 
+excerpt: 
 toc: true
 comments: true
 rating: # 1~5까지 점수

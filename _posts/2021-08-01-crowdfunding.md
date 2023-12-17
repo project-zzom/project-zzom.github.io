@@ -9,6 +9,8 @@ image-caption: 이미지 출처 <a href="https://pixabay.com/ko/users/klimkin-12
 description: "크라우드펀딩으로 후원하면 손해 보는 건 아닐까 하는 의문에 대하여"
 featured: false
 hidden: false
+beforetoc: 
+excerpt: 
 toc: true
 comments: true
 rating: # 1~5까지 점수
