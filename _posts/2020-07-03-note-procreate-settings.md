@@ -8,8 +8,8 @@ image: "https://assets.st-note.com/production/uploads/images/29580669/rectangle_
 description: 
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 오늘은 아이패드와 프로크리에이트로 디지털 그래픽 레코딩을 할 때 알아두면 좋을 설정 팁을 소개합니다!
+excerpt: 오늘은 아이패드와 프로크리에이트로 디지털 그래픽 레코딩을 할 때 알아두면 좋을 설정 팁을 소개합니다!
 toc: true
 comments: true
 rating: # 1~5까지 점수

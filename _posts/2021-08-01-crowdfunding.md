@@ -9,8 +9,8 @@ image-caption: 이미지 출처 <a href="https://pixabay.com/ko/users/klimkin-12
 description: "크라우드펀딩으로 후원하면 손해 보는 건 아닐까 하는 의문에 대하여"
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 다만 내가 어떤 사고의 흐름으로 크라우드펀딩을 택했는지는 설명할 수 있다. 나와 비슷한 고민을 가진 사람이 있다면 이놈은 어떤 생각을 했나 들어나보고 마음대로 정하는 데 도움이 되면 좋겠다.
+excerpt: 다만 내가 어떤 사고의 흐름으로 크라우드펀딩을 택했는지는 설명할 수 있다. 나와 비슷한 고민을 가진 사람이 있다면 이놈은 어떤 생각을 했나 들어나보고 마음대로 정하는 데 도움이 되면 좋겠다.
 toc: true
 comments: true
 rating: # 1~5까지 점수

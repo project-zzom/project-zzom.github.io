@@ -9,8 +9,8 @@ image-caption: 이미지 출처 <a href="https://pixabay.com/ko/users/imordaf-11
 description: "GitHub 이슈로 질문 게시판 만들었는데, GitHub 디스커션으로 갈아타야 했던 썰"
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 사실은 개인 도메인을 사이트에 연동하는 게 무료라는 점이 GitHub을 선택한 가장 큰 이유가 되겠다.
+excerpt: 사실은 개인 도메인을 사이트에 연동하는 게 무료라는 점이 GitHub을 선택한 가장 큰 이유가 되겠다.
 toc: true
 comments: true
 rating: # 1~5까지 점수

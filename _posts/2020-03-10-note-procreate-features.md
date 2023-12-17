@@ -8,8 +8,8 @@ image: "https://assets.st-note.com/production/uploads/images/20694815/rectangle_
 description: 
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 잔뜩 기대하며 아이패드를 질렀는데, 막상 사고 보니 활용할 데가 없어 난감한 분 계신가요? (제가 그랬습니다) 이번 글에서는 아이패드로 그림을 그릴 때 써보면 좋을 기능을 소개합니다. 
+excerpt: 잔뜩 기대하며 아이패드를 질렀는데, 막상 사고 보니 활용할 데가 없어 난감한 분 계신가요? (제가 그랬습니다) 이번 글에서는 아이패드로 그림을 그릴 때 써보면 좋을 기능을 소개합니다. 
 toc: true
 comments: true
 rating: # 1~5까지 점수

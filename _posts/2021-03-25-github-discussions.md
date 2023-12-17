@@ -9,8 +9,8 @@ image-caption: 이미지 출처 <a href="https://pixabay.com/?utm_source=link-at
 description: "GitHub 이슈로 질문 게시판 만들었는데, GitHub 디스커션으로 갈아타야 했던 썰"
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 이런 절차와 형식은 피드백을 주는 주체가 개발자일 때 유용하다. 하지만 피드백을 할 사람이 이런 배경지식이 없는 일반인이라면 어떨까? 
+excerpt: 이런 절차와 형식은 피드백을 주는 주체가 개발자일 때 유용하다. 하지만 피드백을 할 사람이 이런 배경지식이 없는 일반인이라면 어떨까? 
 toc: true
 comments: true
 rating: # 1~5까지 점수

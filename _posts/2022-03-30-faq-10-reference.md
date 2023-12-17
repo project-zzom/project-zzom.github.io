@@ -9,8 +9,8 @@ image-caption:
 description: "본 내용에는 담지 못했지만 함께 보면 도움될 자료"
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 이해를 돕기 위해 번역 공정이나 역할과 책임 등을 소프트웨어 개발 프로세스나 R&R로 비유하고 있습니다. IT 업계 종사자가 아닌 분은 해당 내용을 건너뛰셔도 됩니다.
+excerpt: 이해를 돕기 위해 번역 공정이나 역할과 책임 등을 소프트웨어 개발 프로세스나 R&R로 비유하고 있습니다. IT 업계 종사자가 아닌 분은 해당 내용을 건너뛰셔도 됩니다.
 toc: true
 comments: true
 rating: # 1~5까지 점수

@@ -8,8 +8,8 @@ image: "https://assets.st-note.com/production/uploads/images/30879719/rectangle_
 description: 
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: 이번에는 그래픽 레코딩을 혼자서 연습할 때 보고 그릴만 한 영상을 소개합니다.
+excerpt: 이번에는 그래픽 레코딩을 혼자서 연습할 때 보고 그릴만 한 영상을 소개합니다.
 toc: true
 comments: true
 rating: # 1~5까지 점수

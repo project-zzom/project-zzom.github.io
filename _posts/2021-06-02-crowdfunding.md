@@ -9,8 +9,8 @@ image-caption:
 description: "'처음 배우는 그래픽 레코딩' 크라우드펀딩 스토리 공개"
 featured: false
 hidden: false
-beforetoc: 
-excerpt: 
+beforetoc: "'쉽게 말로 하지 왜 힘들게 그림을 그려?'라고 생각할 수 있는데요. 그래픽 레코딩을 하는 이유는 말보다 그림으로 표현하는 게 더 나을 때가 있기 때문입니다."
+excerpt: "'쉽게 말로 하지 왜 힘들게 그림을 그려?'라고 생각할 수 있는데요. 그래픽 레코딩을 하는 이유는 말보다 그림으로 표현하는 게 더 나을 때가 있기 때문입니다."
 toc: true
 comments: true
 rating: # 1~5까지 점수
