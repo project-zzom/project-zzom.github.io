@@ -4,7 +4,7 @@ name: "출판 프로젝트 ZZOM"
 # title: "Project ZZOM"
 title: "출판 프로젝트 ZZOM"
 # description: "One-person Publishing Project"
-description: "제가 보니 좋은 책을 함께 볼 수 있게 번역합니다"
+description: "읽어 보니 좋았던 책을 함께 볼 수 있게 번역합니다"
 logo: 'assets/images/zzom-logo-dark (48 x 48).png'
 favicon: 'favicon.ico'
 baseurl: 
