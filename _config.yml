@@ -73,7 +73,7 @@ adsense-data-ad-client: "ca-pub-5050141342916334"
 
 # Facebook
 facebook:
-  enabled: true
+  enabled: false
   appId: "160845975895412"
   nounce: "2WuYKKrb"
 
