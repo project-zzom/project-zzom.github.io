@@ -44,6 +44,13 @@ comments: false
 
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/__zMlMWSXYM?si=1J7ApWgN-qWluuVL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <br/>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ibaIH15zkpg?si=InaLKTwyWu75H-9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
         </div>
     </div>
 </div>
