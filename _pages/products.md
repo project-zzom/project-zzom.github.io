@@ -35,11 +35,11 @@ comments: false
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/7xxa6D8Otrw?si=IG5VibJzhbAVxuLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/7xxa6D8Otrw?si=IG5VibJzhbAVxuLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <br/>
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/x3_9hbuEhG4?si=XH4Mu9x58TXdntGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/x3_9hbuEhG4?si=XH4Mu9x58TXdntGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
         </div>
     </div>

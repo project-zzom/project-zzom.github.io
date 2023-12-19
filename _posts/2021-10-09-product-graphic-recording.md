@@ -4,7 +4,7 @@ title:  "처음 배우는 그래픽 레코딩"
 author: bomber
 categories: [ 그래픽 레코딩 ]
 tags: [그래픽레코딩, 프로크리에이트, 아이패드, 추천 기능]
-image: assets/images/products/graphic-recording/mockup.png
+image: assets/images/products/graphic-recording/main.png
 description: 
 featured: false
 hidden: false

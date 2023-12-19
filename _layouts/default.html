@@ -76,67 +76,64 @@ src="https://www.facebook.com/tr?id=1395248371403049&ev=PageView&noscript=1"
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
     <div class="container pr-0">
 
-    <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>
-    <!-- End Logo -->
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}"></a>
+        <!-- End Logo -->
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <div class="collapse navbar-collapse" id="navbarMediumish">
-        <!-- Begin Menu -->
-            <ul class="navbar-nav ml-auto">
-                {% if page.url == "/about" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                    <a class="nav-link" href="{{ site.baseurl }}/about">소개</a>
-                </li>                
-                {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                    <a class="nav-link" href="{{ site.baseurl }}/index.html">블로그</a>
-                </li>
-                {% if page.url == "/products" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                    <a class="nav-link" href="{{ site.baseurl }}/products">프로덕트</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://smartstore.naver.com/zzom/" target="_blank">스토어</a>
-                </li>                
-                {% if page.url == "/support" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                    <a class="nav-link" href="{{ site.baseurl }}/support">고객지원</a>
-                </li>     
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <!-- Begin Menu -->
+                <ul class="navbar-nav ml-auto">
+                    {% if page.url == "/about" %}
+                    <li class="nav-item active">
+                    {% else %}
+                    <li class="nav-item">
+                    {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/about">소개</a>
+                    </li>                
+                    {% if page.url == "/" %}
+                    <li class="nav-item active">
+                    {% else %}
+                    <li class="nav-item">
+                    {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/index.html">블로그</a>
+                    </li>
+                    {% if page.url == "/products" %}
+                    <li class="nav-item active">
+                    {% else %}
+                    <li class="nav-item">
+                    {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/products">프로덕트</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://smartstore.naver.com/zzom/" target="_blank">스토어</a>
+                    </li>                
+                    {% if page.url == "/support" %}
+                    <li class="nav-item active">
+                    {% else %}
+                    <li class="nav-item">
+                    {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/support">고객지원</a>
+                    </li>     
 
-                {% include search-lunr.html %}
+                    {% include search-lunr.html %}
 
-                <li class="nav-item">
-                    <p class="nav-link">
-                    <a target="_blank" href="https://www.facebook.com/project.zzom/"><i class="fab fa-facebook-f"></i></a>
-                    <a target="_blank" href="https://twitter.com/project_zzom/"><i class="fab fa-twitter"></i></a>
-                    <a target="_blank" href="https://www.instagram.com/project.zzom/"><i class="fab fa-instagram"></i></a>
-                    <a target="_blank" href="https://www.youtube.com/channel/UCu-oIGYxwdzhRQwOYufWVrg/videos/"><i class="fab fa-youtube"></i></a>
-                    </p>
-                </li>
-            </ul>      
-        <!-- End Menu -->
+                    <li class="nav-item">
+                        <p class="nav-link">
+                        <a target="_blank" href="https://www.facebook.com/project.zzom/"><i class="fab fa-facebook-f"></i></a>
+                        <a target="_blank" href="https://twitter.com/project_zzom/"><i class="fab fa-twitter"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/project.zzom/"><i class="fab fa-instagram"></i></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCu-oIGYxwdzhRQwOYufWVrg/videos/"><i class="fab fa-youtube"></i></a>
+                        </p>
+                    </li>
+                </ul>      
+            <!-- End Menu -->
 
+        </div>
     </div>
-    </div>
-    
 </nav>
 <!-- End Navigation -->
 
