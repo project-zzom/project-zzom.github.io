@@ -60,12 +60,14 @@ comments: false
         </ul>
         </p>
 
-
-
     </div>
 
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/7xxa6D8Otrw?si=Q_MUam5PwEILHz4f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <br/>
             <div class="video-container">
                 <iframe src="https://www.youtube.com/embed/__zMlMWSXYM?si=1J7ApWgN-qWluuVL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
