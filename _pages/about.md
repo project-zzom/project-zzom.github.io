@@ -13,12 +13,13 @@ comments: false
         업무나 취미로 본 책 중에 혼자 보기 아까운 책을 골라 함께 볼 수 있게 번역합니다.
         
         <blockquote>이 책 '쫌' 괜찮아 보이는데?<br/>
-        오늘은 이걸 '쫌' 읽어볼까?</blockquote>
-
-        그래서 프로젝트 이름이 '쫌(ZZOM)'입니다.<br/>
+        오늘은 이걸 '쫌' 읽어볼까?<br/>
+        그래서 프로젝트 이름이 '쫌(ZZOM)'입니다.</blockquote>
         </p>
 
-
+        <figure>        
+            <img class="" src="{{site.baseurl}}/assets/images/about/zzom-banner-light (1024 x 682).jpg" alt="zzom-banner" />
+        </figure>        
 
        <h4>프로젝트 프로세스</h4>
 
@@ -37,9 +38,30 @@ comments: false
         프로젝트를 지속하는 데 큰 힘이 됩니다!
         </blockquote>
 
-        <figure>        
-            <img class="" src="{{site.baseurl}}/assets/images/about/zzom-banner-light (1024 x 682).jpg" alt="zzom-banner" />
-        </figure>
+        <h4>프로젝트 근황 공유</h4>
+        아래의 채널에서 프로젝트 진행 과정을 볼 수 있습니다.
+        <ul>
+            <li>영상: <a href="https://www.youtube.com/@zzom" target="_blank">유튜브</a> / <a href="https://www.tiktok.com/@project.zzom" target="_blank">틱톡</a></li>
+            <li>크라우드펀딩: <a href="https://tumblbug.com/graphicrecording/" target="_blank">텀블벅</a> / 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupIds=108084" target="_blank">스티비</a></li>
+            <li>SNS: <a href="https://pf.kakao.com/_kvrnK" target="_blank">카카오톡 채널</a> / <a href="https://cafe.naver.com/projectzzom" target="_blank">네이버 카페</a> / <a href="https://www.facebook.com/project.zzom" target="_blank">페이스북 페이지</a> / <a href="https://www.instagram.com/project.zzom/" target="_blank">인스타그램</a> / <a href="https://twitter.com/project_zzom" target="_blank">트위터(X)</a></li>
+        </ul>
+
+        <div class="section-title">
+            <h2><span>운영자 소개</span></h2>
+        </div>
+        
+        
+        <p class="mb-5">
+        <h4>신상재</h4> 
+        번역하는 개발자 / 삼성SDS Software Architect<br/>
+        시스템을 기획, 설계, 개발, 운영하는 과정에서 축적된 지식과 엔지니어링 기법을 기술서를 읽고 입문서를 만드는 데 활용하고 있다. 현재까지 다양한 방면의 입문서를 번역했으며 목록은 다음과 같습니다.
+        <ul>
+            <li><a href="https://codelabor.github.io/translating-developer/" target="_blank">번역서 목록</a></li>
+        </ul>
+        </p>
+
+
+
     </div>
 
     <div class="col-md-4">

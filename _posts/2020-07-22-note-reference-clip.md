@@ -6,7 +6,7 @@ categories: [ 그래픽 레코딩 ]
 tags: [그래픽레코딩, 프로크리에이트, 아이패드, 추천 영상, 연습]
 image: "https://assets.st-note.com/production/uploads/images/30879719/rectangle_large_type_2_38013bc0050dab62b6ec666916e5f4bb.png?width=800"
 description: 
-featured: false
+featured: true
 hidden: false
 beforetoc: 이번에는 그래픽 레코딩을 혼자서 연습할 때 보고 그릴만 한 영상을 소개합니다.
 excerpt: 이번에는 그래픽 레코딩을 혼자서 연습할 때 보고 그릴만 한 영상을 소개합니다.

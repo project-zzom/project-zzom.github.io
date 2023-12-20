@@ -93,13 +93,6 @@ src="https://www.facebook.com/tr?id=1395248371403049&ev=PageView&noscript=1"
                     <li class="nav-item">
                     {% endif %}
                         <a class="nav-link" href="{{ site.baseurl }}/about">소개</a>
-                    </li>                
-                    {% if page.url == "/" %}
-                    <li class="nav-item active">
-                    {% else %}
-                    <li class="nav-item">
-                    {% endif %}
-                        <a class="nav-link" href="{{ site.baseurl }}/index.html">블로그</a>
                     </li>
                     {% if page.url == "/products" %}
                     <li class="nav-item active">
@@ -107,6 +100,13 @@ src="https://www.facebook.com/tr?id=1395248371403049&ev=PageView&noscript=1"
                     <li class="nav-item">
                     {% endif %}
                         <a class="nav-link" href="{{ site.baseurl }}/products">프로덕트</a>
+                    </li>         
+                    {% if page.url == "/blog" %}
+                    <li class="nav-item active">
+                    {% else %}
+                    <li class="nav-item">
+                    {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/">블로그</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://smartstore.naver.com/zzom/" target="_blank">스토어</a>

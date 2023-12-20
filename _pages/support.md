@@ -24,14 +24,6 @@ comments: false
         </ul>
 
         
-
-        <h4>근황 공유</h4>
-        <ul>
-            <li>뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupIds=108084" target="_blank">스티비</a></li>
-            <li>영상: <a href="https://www.youtube.com/@zzom" target="_blank">유튜브</a> / <a href="https://www.tiktok.com/@project.zzom" target="_blank">틱톡</a></li>
-            <li>크라우드펀딩: <a href="https://tumblbug.com/graphicrecording/" target="_blank">텀블벅</a></li>
-            <li>SNS: <a href="https://pf.kakao.com/_kvrnK" target="_blank">카카오톡 채널</a> / <a href="https://cafe.naver.com/projectzzom" target="_blank">네이버 카페</a> / <a href="https://www.facebook.com/project.zzom" target="_blank">페이스북 페이지</a> / <a href="https://www.instagram.com/project.zzom/" target="_blank">인스타그램</a> / <a href="https://twitter.com/project_zzom" target="_blank">트위터(X)</a></li>
-        </ul>
     </div>
 
     <!-- sticky pannel -->

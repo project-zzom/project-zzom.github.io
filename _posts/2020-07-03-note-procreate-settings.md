@@ -6,7 +6,7 @@ categories: [ 그래픽 레코딩 ]
 tags: [그래픽레코딩, 프로크리에이트, 아이패드, 설정]
 image: "https://assets.st-note.com/production/uploads/images/29580669/rectangle_large_type_2_6b7c64f631c76dee7c88fdb211e49006.png?width=800"
 description: 
-featured: false
+featured: true
 hidden: false
 beforetoc: 오늘은 아이패드와 프로크리에이트로 디지털 그래픽 레코딩을 할 때 알아두면 좋을 설정 팁을 소개합니다!
 excerpt: 오늘은 아이패드와 프로크리에이트로 디지털 그래픽 레코딩을 할 때 알아두면 좋을 설정 팁을 소개합니다!

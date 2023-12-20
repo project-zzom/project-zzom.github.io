@@ -5,24 +5,30 @@ permalink: /products
 comments: false
 ---
 
+<!-- Products 
+================================================== -->
+<section class="featured-posts">
+    <div class="row">
+    {% for post in site.posts %}
+        {% if post.product == true %}
+            {% include productbox.html %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</section>
+
 <div class="row justify-content-between">
     <div class="col-md-8 pr-5">
-
         <h2>ZZOM 번역서</h2>
-        ZZOM에서 출간한 도서는 다음과 같습니다.
+        프로젝트를 통해 출간한 도서는 다음과 같습니다.
 
         <ul>
             <li><a href="https://zzom.io/scrum-master/" target="_blank">출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
             <li><a href="https://zzom.io/graphic-recording/" target="_blank">처음 배우는 그래픽 레코딩</a></li>
         </ul>
 
-        다른 출판사와의 협업으로 번역한 도서는 다음과 같습니다.
-        <ul>
-            <li><a href="https://codelabor.github.io/translating-developer/" target="_blank">번역서 목록</a></li>
-        </ul>
-
-        <h2>ZZOM 프로젝트 굿즈</h2>
-        ZZOM 프로젝트를 통해 기획된 굿즈는 다음과 같습니다.
+        <h2>ZZOM 굿즈</h2>
+        프로젝트를 통해 기획된 굿즈는 다음과 같습니다.
 
         <ul>
             <li><a href="https://zzom.io/planning-hwatu/" target="_blank">플래닝 화투</a></li>
