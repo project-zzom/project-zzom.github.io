@@ -228,17 +228,21 @@ product: true
 토토미는 누구나 좋아하는 고양이 그림으로 깃의 기능을 귀엽고 재미있게 표현했습니다. 그래픽으로 설명하니 어려워 보이던 개념과 동작이 더 쉽고 친근하게 느껴졌어요. 이런 게 바로 ’그래픽 레코딩’을 학습에 활용한 좋은 예가 아닐까 생각했습니다. 단, 토토미처럼 그래픽 레코딩에 능숙하려면 오랜 시간 노력하고 관심을 쏟아야 할 겁니다. 그래서 저는 이 책에서 소개한 다양한 예제와 개념을 업무에 적용하면서 그리며 생각하는 습관을 들이려 합니다. 여러분도 이 책의 기법을 실생활에 활용하거나, 배우고 생각한 것을 그림으로 옮기면서 그래픽 레코딩의 즐거움과 복잡했던 생각이 잘 정리되었을 때의 뿌듯함을 느껴보길 바랍니다.
 
 <div class="note">
-    <p>이 책에 대해 궁금하다면 아래를 참고하세요.
-    </p>
+    <p>이 책에 대해 궁금하다면 아래를 참고하세요.</p>
+
+    <b>도서 지원 페이지</b>
+    <ul>
+        <li><a href="https://zzom.io/graphic-recording/" target="_blank">처음 배우는 그래픽 레코딩</a> </li>
+    </ul>    
+
     <b>SNS / YouTube</b>
-        <ul><li>
-        <a href="https://www.instagram.com/explore/tags/%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9/" target="_blank">인스타그램</a> / 
-        <a href="https://www.facebook.com/search/top?q=%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">페이스북</a> / 
-        <a href="https://twitter.com/search?q=%23%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">트위터(X)</a> / 
-        <a href="https://www.youtube.com/@zzom/videos" target="_blank">유튜브</a>
-
-
+    <ul><li>
+    <a href="https://www.instagram.com/explore/tags/%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9/" target="_blank">인스타그램</a> / 
+    <a href="https://www.facebook.com/search/top?q=%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">페이스북</a> / 
+    <a href="https://twitter.com/search?q=%23%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">트위터(X)</a> / 
+    <a href="https://www.youtube.com/@zzom/videos" target="_blank">유튜브</a>
     </li></ul>
+
     <b>서점 독자 후기</b>
     <ul><li>
         <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank">교보문고</a> / 

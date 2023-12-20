@@ -323,17 +323,21 @@ product: true
 ![상세 내용]({{ site.baseurl }}/assets/images/products/scrum-master/description-2.png)
 
 <div class="note">
-    <p>이 책에 대해 궁금하다면 아래를 참고하세요.
-    </p>
+    <p>이 책에 대해 궁금하다면 아래를 참고하세요.</p>
+
+    <b>도서 지원 페이지</b>
+    <ul>
+        <li><a href="https://zzom.io/scrum-master/" target="_blank">출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
+    </ul>   
+
     <b>SNS / YouTube</b>
         <ul><li>
         <a href="https://www.instagram.com/explore/tags/%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88%EC%8A%A4%ED%81%AC%EB%9F%BC%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80%EB%90%9C%EA%B1%B4%EC%97%90%EA%B4%80%ED%95%98%EC%97%AC/" target="_blank">인스타그램</a> / 
         <a href="https://www.facebook.com/search/top/?q=%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88%EC%8A%A4%ED%81%AC%EB%9F%BC%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80%EB%90%9C%EA%B1%B4%EC%97%90%EA%B4%80%ED%95%98%EC%97%AC&locale=ko_KR" target="_blank">페이스북</a> / 
         <a href="https://twitter.com/search?q=%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88%EC%8A%A4%ED%81%AC%EB%9F%BC%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80%EB%90%9C%EA%B1%B4%EC%97%90%EA%B4%80%ED%95%98%EC%97%AC&src=typed_query" target="_blank">트위터(X)</a> / 
         <a href="https://www.youtube.com/@zzom/videos" target="_blank">유튜브</a>
-
-
     </li></ul>
+    
     <b>서점 독자 후기</b>
     <ul><li>
         <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank">교보문고</a> / 

@@ -85,8 +85,13 @@ product: true
 부산대학교 컴퓨터공학과 졸업 후 삼성SDS에서 소프트웨어 아키텍트와 품질 기술 업무를 하고 있다. 역서로 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
 
 <div class="note">
-    <p>이 제품에 대해 궁금하다면 아래를 참고하세요.
-    </p>
+    <p>이 제품에 대해 궁금하다면 아래를 참고하세요.</p>
+
+    <b>제품 지원 페이지</b>
+    <ul>
+        <li><a href="https://zzom.io/planning-hwatu/" target="_blank">플래닝 화투</a></li>
+    </ul>   
+
     <b>SNS / YouTube</b>
         <ul><li>
         <a href="https://www.instagram.com/explore/tags/%ED%94%8C%EB%9E%98%EB%8B%9D%ED%99%94%ED%88%AC/" target="_blank">인스타그램</a> / 
