@@ -5,17 +5,7 @@ permalink: /products
 comments: false
 ---
 
-<!-- Products 
-================================================== -->
-<section class="featured-posts">
-    <div class="row">
-    {% for post in site.posts %}
-        {% if post.product == true %}
-            {% include productbox.html %}
-        {% endif %}
-    {% endfor %}
-    </div>
-</section>
+
 
 <div class="row justify-content-between">
     <div class="col-md-8 pr-5">
@@ -50,3 +40,18 @@ comments: false
         </div>
     </div>
 </div>
+
+<!-- Products 
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>관련 기사</span></h2>
+    </div>
+    <div class="row">
+    {% for post in site.posts %}
+        {% if post.product == true %}
+            {% include productbox.html %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</section>

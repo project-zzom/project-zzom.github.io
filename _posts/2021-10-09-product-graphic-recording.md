@@ -17,6 +17,37 @@ last_modified_at: # YYYY-MM-DD
 product: true
 ---
 
+
+<div class="note">
+    <p>이 책에 대해 궁금하다면 아래를 참고하세요.</p>
+
+    <b>도서 지원 페이지</b>
+    <ul>
+        <li><a href="https://zzom.io/graphic-recording/" target="_blank">처음 배우는 그래픽 레코딩</a> </li>
+    </ul>    
+
+    <b>SNS / YouTube</b>
+    <ul><li>
+    <a href="https://www.instagram.com/explore/tags/%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9/" target="_blank">인스타그램</a> / 
+    <a href="https://www.facebook.com/search/top?q=%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">페이스북</a> / 
+    <a href="https://twitter.com/search?q=%23%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">트위터(X)</a> / 
+    <a href="https://www.youtube.com/@zzom/videos" target="_blank">유튜브</a>
+    </li></ul>
+
+    <b>서점 독자 후기</b>
+    <ul><li>
+        <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank">교보문고</a> / 
+        <a href="https://www.yes24.com/Product/Goods/103597086" target="_blank">Yes24</a> / 
+        <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank">알라딘</a>
+    </li></ul>
+  
+    <b>판매처 정보</b>
+    <ul>
+        <li><a href="http://smartstore.zzom.io/products/6237850646" target="_blank">네이버 스마트스토어</a> </li>
+    </ul>
+
+</div>
+
 ## 실물 종이책 넘겨보기
 
 <p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/fJAt2H6YHyE?si=EiAmMm2nJNeInzAl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -51,75 +82,75 @@ product: true
 * 한국어판을 준비하며
 * 이 책의 활용 방법
 
-### Part 1 이론편
-#### Chapter 1 비주얼 씽킹 알아보기
-* 1-1 비주얼 씽킹이란
-* 1-2 비주얼 씽킹의 세 가지 효과
-* 1-3 비주얼 씽킹은 언제 하면 좋을까
-* 1-4 비주얼 씽킹을 활용한 사례
+<b>Part 1 이론편</b>
+* Chapter 1 비주얼 씽킹 알아보기
+    * 1-1 비주얼 씽킹이란
+    * 1-2 비주얼 씽킹의 세 가지 효과
+    * 1-3 비주얼 씽킹은 언제 하면 좋을까
+    * 1-4 비주얼 씽킹을 활용한 사례
 
-#### Chapter 2 의미가 전달되는 그림 그리기
-* 2-1 머릿속의 생각을 전달하는 그림
-* 2-2 그래픽 레코딩을 위한 준비물
-* 2-3 깔끔하게 선을 긋는다
-* 2-4 기본 도형 세 개면 웬만한 건 다 그린다
-* 2-5 표정을 그려보자
-* 2-6 사람을 그려보자
-* 2-7 스토리로 전달하자
-* 칼럼 1분 안에 발표자 얼굴 그리기
+* Chapter 2 의미가 전달되는 그림 그리기
+    * 2-1 머릿속의 생각을 전달하는 그림
+    * 2-2 그래픽 레코딩을 위한 준비물
+    * 2-3 깔끔하게 선을 긋는다
+    * 2-4 기본 도형 세 개면 웬만한 건 다 그린다
+    * 2-5 표정을 그려보자
+    * 2-6 사람을 그려보자
+    * 2-7 스토리로 전달하자
+    * 칼럼 1분 안에 발표자 얼굴 그리기
 
-#### Chapter 3 의미가 전달되는 글쓰기
-* 3-1 그림은 의미를 넓히고 글은 의미를 좁힌다
-* 3-2 알아보기 쉽게 글자 쓰는 방법
-* 3-3 눈에 잘 띄게 글자 쓰는 방법
-* 3-4 의미가 전달되게 글자 쓰는 방법
+* Chapter 3 의미가 전달되는 글쓰기
+    * 3-1 그림은 의미를 넓히고 글은 의미를 좁힌다
+    * 3-2 알아보기 쉽게 글자 쓰는 방법
+    * 3-3 눈에 잘 띄게 글자 쓰는 방법
+    * 3-4 의미가 전달되게 글자 쓰는 방법
 
-#### Chapter 4 의미가 전달되는 도식 그리기
-* 4-1 도식을 그리는 방법
-* 4-2 점과 선과 면과 화살표
-* 4-3 회의할 때 도움 되는 여섯 가지 도식
- 
-#### Chapter 5 의미가 전달되는 디자인하기
-* 5-1 디자인의 네 가지 원칙
-* 5-2 의미가 전달되게 색깔 고르는 방법
+* Chapter 4 의미가 전달되는 도식 그리기
+    * 4-1 도식을 그리는 방법
+    * 4-2 점과 선과 면과 화살표
+    * 4-3 회의할 때 도움 되는 여섯 가지 도식
+    
+* Chapter 5 의미가 전달되는 디자인하기
+    * 5-1 디자인의 네 가지 원칙
+    * 5-2 의미가 전달되게 색깔 고르는 방법
 
-### Part 2 실전편
-#### Chapter 6 그래픽 레코딩 실전 노하우
-* 6-1 상황과 흐름을 이해한다
-* 6-2 계획하고 준비한다
-* 6-3 준비물을 챙기자
-* 6-4 레이아웃을 생각하자
-* 6-5 그래픽 레코딩을 실행하는 순서
-* 6-6 효과적으로 이야기를 듣는 방법
-* 6-7 듣고 바로 그리지 않는다
-* 6-8 그리고, 공유하고, 활용한다
-* 칼럼 그래픽 레코더의 자세와 마음가짐
-* 칼럼 더 성장하기 위한 실천 방법
+<b>Part 2 실전편</b>
+* Chapter 6 그래픽 레코딩 실전 노하우
+    * 6-1 상황과 흐름을 이해한다
+    * 6-2 계획하고 준비한다
+    * 6-3 준비물을 챙기자
+    * 6-4 레이아웃을 생각하자
+    * 6-5 그래픽 레코딩을 실행하는 순서
+    * 6-6 효과적으로 이야기를 듣는 방법
+    * 6-7 듣고 바로 그리지 않는다
+    * 6-8 그리고, 공유하고, 활용한다
+    * 칼럼 그래픽 레코더의 자세와 마음가짐
+    * 칼럼 더 성장하기 위한 실천 방법
 
-#### Chapter 7 디지털 기기 활용하기
-* 7-1 디지털 기기로 그래픽 레코딩에 날개를 달자
-* 7-2 디지털 결과물을 공유하는 방법
-* 칼럼 디지털 레코딩 전에 준비해둘 것
+* Chapter 7 디지털 기기 활용하기
+    * 7-1 디지털 기기로 그래픽 레코딩에 날개를 달자
+    * 7-2 디지털 결과물을 공유하는 방법
+    * 칼럼 디지털 레코딩 전에 준비해둘 것
 
-#### Appendix A 비주얼 라이브러리
-* 아이콘 1: 일상 생활
-* 아이콘 2: 프로젝트
-* 아이콘 3: 비즈니스
-* 화살표
-* 감정 1
-* 감정 2
-* 상황 1
-* 상황 2
-* 상황 3
+  * Appendix A 비주얼 라이브러리
+    * 아이콘 1: 일상 생활
+    * 아이콘 2: 프로젝트
+    * 아이콘 3: 비즈니스
+    * 화살표
+    * 감정 1
+    * 감정 2
+    * 상황 1
+    * 상황 2
+    * 상황 3
 
-#### Appendix B 한국의 그래픽 레코딩 사례
-* 정진호 / J비주얼스쿨
-* 임지영 / 다재다능 르코
-* 김기영 / 그래픽 퍼실리테이터
-* 이은현 / 그래픽 퍼실리테이터
-* 이지현 / 그래픽 퍼실리테이터
-* 참고자료
-* 찾아보기
+  * Appendix B 한국의 그래픽 레코딩 사례
+    * 정진호 / J비주얼스쿨
+    * 임지영 / 다재다능 르코
+    * 김기영 / 그래픽 퍼실리테이터
+    * 이은현 / 그래픽 퍼실리테이터
+    * 이지현 / 그래픽 퍼실리테이터
+    * 참고자료
+    * 찾아보기
 
 ## 책 속으로
 > 그림을 못 그려도 괜찮습니다. 예술 감각이나 재능이 없더라도 문제 없어요. 왜냐하면 그래픽 레코딩은 정확하게 그리는 게 중요한 게 아니라 의미가 전달되면서도 빠르게 그리는 게 중요하거든요. 선 긋는 요령만 제대로 익혀도 누구나 쉽게 따라 할 수 있습니다.
@@ -226,33 +257,3 @@ product: true
 최근 소프트웨어 개발자의 업무에 그래픽 레코딩이 중요하다는 걸 느끼고 있습니다. 개발을 하다 보면 생각을 그래픽으로 표현하고 시각화하는 게 큰 도움이 되거든요. 저희는 회의를 할 때 화이트보드를 반드시 갖다 놓습니다. 복잡하게 코드를 쓰기보다 순서도나 다이어그램으로 표현하는 게 서로의 생각을 잘 읽을 수 있고, 실제로 결과도 좋게 나오곤 합니다. 이 책을 보니 마이크로소프트의 기술 전도사(developer advocate), 토토미 이무라의 트윗(<https://bit.ly/2TPn1LU>)이 떠올랐습니다. 깃(git)이라는 버전 관리 시스템을 그래픽 레코딩으로 표현했었는데, 많은 사람이 리트윗을 하면서 반응이 아주 뜨거웠었죠. 깃은 소프트웨어 개발자라면 반드시 알아야 하는 도구입니다. 하지만 초심자에겐 버전 관리라는 개념이 생소하고 많은 명령어를 익히는 게 어려울 수 있죠.
 
 토토미는 누구나 좋아하는 고양이 그림으로 깃의 기능을 귀엽고 재미있게 표현했습니다. 그래픽으로 설명하니 어려워 보이던 개념과 동작이 더 쉽고 친근하게 느껴졌어요. 이런 게 바로 ’그래픽 레코딩’을 학습에 활용한 좋은 예가 아닐까 생각했습니다. 단, 토토미처럼 그래픽 레코딩에 능숙하려면 오랜 시간 노력하고 관심을 쏟아야 할 겁니다. 그래서 저는 이 책에서 소개한 다양한 예제와 개념을 업무에 적용하면서 그리며 생각하는 습관을 들이려 합니다. 여러분도 이 책의 기법을 실생활에 활용하거나, 배우고 생각한 것을 그림으로 옮기면서 그래픽 레코딩의 즐거움과 복잡했던 생각이 잘 정리되었을 때의 뿌듯함을 느껴보길 바랍니다.
-
-<div class="note">
-    <p>이 책에 대해 궁금하다면 아래를 참고하세요.</p>
-
-    <b>도서 지원 페이지</b>
-    <ul>
-        <li><a href="https://zzom.io/graphic-recording/" target="_blank">처음 배우는 그래픽 레코딩</a> </li>
-    </ul>    
-
-    <b>SNS / YouTube</b>
-    <ul><li>
-    <a href="https://www.instagram.com/explore/tags/%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9/" target="_blank">인스타그램</a> / 
-    <a href="https://www.facebook.com/search/top?q=%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">페이스북</a> / 
-    <a href="https://twitter.com/search?q=%23%EC%B2%98%EC%9D%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B7%B8%EB%9E%98%ED%94%BD%EB%A0%88%EC%BD%94%EB%94%A9" target="_blank">트위터(X)</a> / 
-    <a href="https://www.youtube.com/@zzom/videos" target="_blank">유튜브</a>
-    </li></ul>
-
-    <b>서점 독자 후기</b>
-    <ul><li>
-        <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank">교보문고</a> / 
-        <a href="https://www.yes24.com/Product/Goods/103597086" target="_blank">Yes24</a> / 
-        <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank">알라딘</a>
-    </li></ul>
-  
-    <b>판매처 정보</b>
-    <ul>
-        <li><a href="http://smartstore.zzom.io/products/6237850646" target="_blank">네이버 스마트스토어</a> </li>
-    </ul>
-
-</div>
