@@ -30,7 +30,7 @@ product: true
 
 ## 실물 살펴보기
 
-<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/5mncU8PXsjQ?si=IXQgymBWjcVRMxyH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/alP4ChLcxUw?si=AkSBheNPLD8B0Ev7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## 제품 소개
 
