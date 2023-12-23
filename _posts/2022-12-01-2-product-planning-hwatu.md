@@ -48,6 +48,8 @@ product: true
 
 <p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/-gccN4hstDg?si=Krvngb2M9zm7LzrD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
+<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/XDZskOSVSnk?si=kqu8mpOLYENn7gmY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 ## 제품 소개
 
 <blockquote>“플래닝 화투란?”</blockquote>
