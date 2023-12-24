@@ -114,9 +114,9 @@ last_modified_at: # YYYY-MM-DD
 그림 그릴 요소를 레이어에 나눠 그리면 확대, 축소, 이동도 레이어별로 할 수 있습니다. 심지어 여러 레이어를 그룹으로 묶을 수도 있죠. 나중에 따로 모아 편집해야 할 부분은 미리 레이어로 구분해두는 게 좋습니다. 처음에는 레이어를 넘나드는 게 익숙하지 않아 시간이 걸릴 수 있으니 꼭 필요한 레이어만 만들어 보세요. '윤곽선', '색' 정도만 레이어를 나눠도 작업하기 훨씬 편하다는 걸 느낄 겁니다. 
 
 #### 즐겨 쓰는 레이어, 그룹 정리법
-·헤더 (행사 로고, 제목, 서명)
-·본문 (윤곽선, 색)
-·발표자 (윤곽선, 색, 발표자 정보)
+·헤더 (행사 로고, 제목, 서명)<br/>
+·본문 (윤곽선, 색)<br/>
+·발표자 (윤곽선, 색, 발표자 정보)<br/>
 
 <div class="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/kLW5lVS66VI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
