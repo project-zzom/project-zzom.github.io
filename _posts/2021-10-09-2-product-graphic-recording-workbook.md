@@ -37,7 +37,7 @@ product: true
 
 ## 실물 패키지 살펴보기
 
-<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/ZFANfx42dmc?si=eRdG_TgY3XnTWsJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/v3WvrEn095Y?si=2SWPMhq8tKB1lgum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## 패키지 구성
 
