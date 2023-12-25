@@ -44,11 +44,11 @@ product: true
 ## 제품 확인하기
 
 ### 카드 구성
-<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/DIs0ThpCuaA?si=cg4Wc3mWP-h3LxUV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/60kdK3EtJeA?si=vJTRdj_jT-jYiZod" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/-gccN4hstDg?si=Krvngb2M9zm7LzrD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/OWZQt-wAOWA?si=A2z7FAbVdZ_IcL1V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/XDZskOSVSnk?si=kqu8mpOLYENn7gmY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p><iframe style="width:100%;" height="360" src="https://www.youtube.com/embed/bV-6ro5oPOU?si=iROsm9tk-_XqvQt6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## 제품 소개
 
