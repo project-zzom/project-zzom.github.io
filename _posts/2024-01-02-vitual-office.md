@@ -6,7 +6,7 @@ categories: [ 가상 오피스, 사업자, 통신판매업, 출판사신고 ]
 tags: [가상 오피스, 사업자, 통신판매업, 출판사신고, 경기문화창조허브]
 image: assets/images/virtual-office/main.jpg
 description: 
-featured: false
+featured: true
 hidden: false
 beforetoc: 최근 출판 프로젝트 ZZOM의 사업장을 동탄에서 판교로 옮겼습니다. 무료 가상 오피스를 임대하게 된 건데요. 어떻게 임대했는지, 장단점은 무엇인지 간단히 알려드리려 합니다.
 excerpt: 최근 출판 프로젝트 ZZOM의 사업장을 동탄에서 판교로 옮겼습니다. 무료 가상 오피스를 임대하게 된 건데요. 어떻게 임대했는지, 장단점은 무엇인지 간단히 알려드리려 합니다.
