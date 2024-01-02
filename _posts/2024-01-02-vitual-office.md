@@ -14,7 +14,7 @@ toc: true
 comments: true
 rating: # 1~5까지 점수
 last_modified_at: # YYYY-MM-DD
-product: true
+product: false
 ---
 
 최근 출판 프로젝트 ZZOM의 사업장을 동탄에서 판교로 옮겼습니다.
