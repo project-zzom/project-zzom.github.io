@@ -34,7 +34,7 @@ product: true
 ## 대체 왜 난데없이 설문을?
 이전에 페이스북 개발 관련 그룹을 대상으로 설문했던 데이터가 대표성을 가지기엔 부족했던지라 개발자가 많이 모인다는 개발자 커뮤니티 OKKY에서 한번 더 설문 요청을 했었습니다. 
 
-<ul><li>OKKY: <a href="https://okky.kr/" target="_blank">'https://okky.kr/'</a></li></ul>
+<ul><li>OKKY: <a href="https://okky.kr/" target="_blank">https://okky.kr/</a></li></ul>
 
 가입자 수는 상당한 개발자 커뮤니티였지만 아무래도 단순 정보 취합 설문에 피로감이 누적되어서 그런지 응답자 수는 한 자릿수에 그쳤는데요. 페이스북 그룹 + OKKY 응답자를 모두 더해도 대표성을 가지기엔 여전히 부족한지라 이전 결과처럼 이런 응답이 있구나... 라며 참고용으로만 봐주시면 좋겠습니다.
 
@@ -55,7 +55,7 @@ product: true
 
 <ul><li>
 이전 페이스북 그룹 설문 결과: 
-<a href="https://brunch.co.kr/@codelabor/24" target="_blank">'https://brunch.co.kr/@codelabor/24'</a>
+<a href="/korea-scrum-1/" target="_blank">한국 개발자는 스크럼을 어떻게 하고 있을까? #1</a>
 </li></ul>
 
 ### 설문 결과
