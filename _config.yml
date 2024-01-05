@@ -14,7 +14,8 @@ google_analytics: 'G-FL5818NYCK'
   # stibee: 'https://stibee.com/api/v1.0/lists/3-GRmsmbil90tLfypP8ED7r_XfRLNA==/public/subscribers'
 include: ["_pages"]
 permalink: /:title/
-image: 'assets/images/zzom-banner.jpg'
+image: assets/images/zzom-banner.jpg
+locale: ko_KR
 
 # Authors
 authors:
