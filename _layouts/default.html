@@ -100,17 +100,24 @@ src="https://www.facebook.com/tr?id=1395248371403049&ev=PageView&noscript=1"
                     <li class="nav-item">
                     {% endif %}
                         <a class="nav-link" href="{{ site.baseurl }}/products">프로덕트</a>
-                    </li>         
+                    </li>
+
+                    {% if page.url == "/story" %}
+                    <li class="nav-item active">
+                    {% else %}
+                    <li class="nav-item">
+                        {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/store" target="_blank">스토어</a>
+                    </li>
+
                     {% if page.url == "/story" %}
                     <li class="nav-item active">
                     {% else %}
                     <li class="nav-item">
                     {% endif %}
-                        <a class="nav-link" href="{{ site.baseurl }}/">프로젝트 스토리</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/">스토리</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://smartstore.naver.com/zzom/" target="_blank">스마트스토어</a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link" href="https://tumblbug.com/u/zzom/created" target="_blank">크라우드펀딩</a>
                     </li>
