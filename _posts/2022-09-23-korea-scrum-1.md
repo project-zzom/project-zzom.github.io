@@ -14,7 +14,7 @@ toc: true
 comments: true
 rating: # 1~5까지 점수
 last_modified_at: # YYYY-MM-DD
-product: true
+product: false
 ---
 
 스크럼과 플래닝 포커, 다른 사람은 어떻게 쓰고 있나 궁금해졌다.
