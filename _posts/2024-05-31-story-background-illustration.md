@@ -4,7 +4,7 @@ title:  "[도서 후기] 배경이 있는 캐릭터 일러스트 그리는 방�
 author: bomber
 categories: [ 일러스트 ]
 tags: [ 일러스트, 우타보, うた坊]
-image: assets/images/book-summaries/story-background-illustration/cover-ko.jpg
+image: assets/images/book-review/story-background-illustration/cover-ko.jpg
 description: 
 featured: false
 hidden: false
@@ -79,27 +79,27 @@ product: false
 
 특히 마음에 들었던 부분을 몇 장면 꼽아 보았다.
 
-![1]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/1.jpg)
+![1]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/1.jpg)
 자신의 스타일을 포지셔닝하는 칼럼이 도움 되었다.
 
 
-![2]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/2.jpg)
+![2]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/2.jpg)
 스토리가 담겼을 때 공감을 불러일으키는 힘을 느낄 수 있었다.
 
 
-![3]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/3.jpg)
+![3]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/3.jpg)
 그림은 한 장인데 앞, 뒤 스토리가 궁금하게 만드는 힘을 느낄 수 있었다.
 
 
-![4]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/4.jpg)
+![4]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/4.jpg)
 아이디어의 파편에서 최적의 조합을 찾는 방법이 인상적이었다.
 
 
-![5]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/5.jpg)
+![5]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/5.jpg)
 다양한 표정으로 분위기를 테스트하는 과정이 도움 되었다.
 
 
-![6]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/6.jpg)
+![6]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/6.jpg)
 다양한 소품으로 분위기를 테스트하는 과정이 도움 되었다.
 
 
@@ -107,11 +107,11 @@ product: false
 
 그림 자체가 힐링이 되고 스토리를 담기 위한 다양한 의도를 보며 그림을 재해석하고 기법을 재발견하는 재미가 있다. 아쉬운 게 있다면 일본어 원어를 그대로 옮긴 듯한, 한국어로는 부자연스러운 표현이 종종 보인다는 점, 원서 제목의 '스토리'라는 키워드를 번역서 제목에도 녹였으면 하는 게 있다. 
 
-![cover-ja]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/cover-ja.jpg)
+![cover-ja]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/cover-ja.jpg)
 '배경'보다 '스토리'가 강조된 원서 타이틀은 세리프 폰트로 감성적인 느낌이 물씬 난다. 아마도 띠지의 '드라마틱(ドラマチック)'이란 키워드도 한 몫하는 것 같다.
 
 
-![cover-ko]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/cover-ko.jpg)
+![cover-ko]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/cover-ko.jpg)
 '스토리'는 본문 내용에 들어가고 '배경'과 '캐릭터'가 남은 번역서 타이틀은 산세리프 폰트라 깔끔하게 보인다.
 
 두 표지를 살펴보면 원서가 어필하는 소구점은 '스토리가 전달되게 그리는 방법'이고 번역서가 어필하는 소구점은 '배경이 있는 캐릭터를 그리는 방법'이란 게 차이점이다.
@@ -122,30 +122,30 @@ product: false
 
 다만 한국에서는 잘 쓰지 않거나 다르게 해석되는 내용이 있어 몇 가지를 꼽아보았다. 혹시 책을 구입한 독자가 있다면 확인할 수 있도록 페이지를 표시했다.
 
-![1]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-1.jpg)
+![1]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-1.jpg)
 p23 '기재(機材)'는 한국에선 PC 같은 전산기기에 잘 쓰지 않는다. 내용상 '장비' 정도면 좋겠다.
 
-![2]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-2.jpg)
+![2]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-2.jpg)
 p27 '억제해두고 싶은(押さえておきたい)'은 기계 번역에서 흔히 보는 오역이다. '꼭 알아두어야 할, 짚고 넘어가야 하는' 정도면 좋겠다.
 
-![3]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-3.jpg)
+![3]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-3.jpg)
 p35 '골판지(段ボール)'는 한국에선 지류의 이름으로 사용한다. 정황상 '박스' 정도면 좋겠다.
 
-![4]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-4.jpg)
+![4]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-4.jpg)
 p36 '간판 고양이(看板猫)'는 한국에선 낯선 표현이다. 정황상 '키우는 고양이' 정도면 좋겠다.
 
-![5]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-5.jpg)
+![5]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-5.jpg)
 p38 '안건(案件)'은 한국에선 '의견, 제안'의 의미로 쓰인다. 내용상 '광고, 홍보물' 정도면 좋겠다.
 
-![6]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-6.jpg)
+![6]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-6.jpg)
 p47 '파카(パーカ)'는 ''를 직역한 것으로 한국에선 다른 의류로 이해된다. 내용상 '후드티' 정도면 좋겠다.
 
-![7]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-7.jpg)
+![7]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-7.jpg)
 p58 '어긋나게 하면(ずらすと)'은 한국에선 기준에서 벗어나게 한다는 의미로 쓰인다. 정황상 '드래그하면' 정도면 좋겠다.
 
 그 밖에도 1:1로 직독직해한 표현으로 부자연스러운 것이 더러 있는데 그중에 대표적인 것 하나를 꼽자면 이런 표현이다.
 
-![9]({{ site.baseurl }}/assets/images/book-summaries/story-background-illustration/e-9.jpg)
+![9]({{ site.baseurl }}/assets/images/book-review/story-background-illustration/e-9.jpg)
 p68 '도구 속성의 설정에서 변경을 주는 것으로 아날로그 느낌이 있는 선에 접근할 수 있습니다(ツールプロパティの設定に変更を加えることでも、アナログ感のある線に近づけることができます)'는 의미상 '도구 속성의 설정값을 조절하면 아날로그 느낌을 줄 수 있습니다' 정도면 좋겠다.
 
 
