@@ -18,7 +18,7 @@ product: false
 ---
 
 <div class="note">
-    <p>네이버 '방사(방방 곡곡 창작을 배우는 사람들)' 카페에서 도서를 증정 받아 작성한 후기입니다.</p>
+    <p>네이버 '방사(방방 곡곡 창작을 배우는 사람들)' 카페에서 도서를 증정받아 작성한 후기입니다.</p>
     <ul>
         <li>제공: <a href="https://cafe.naver.com/bscomic" target="_blank">네이버 방사 카페</a></li>
         <li>원서: <a href="https://amzn.asia/d/iwY0fCg" target="_blank">ストーリーが伝わる背景つきキャラクターイラストの描き方</a></li>
