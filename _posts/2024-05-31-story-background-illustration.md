@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[도서 요약] 배경이 있는 캐릭터 일러스트 그리는 방법"
+title:  "[도서 후기] 배경이 있는 캐릭터 일러스트 그리는 방법"
 author: bomber
 categories: [ 일러스트 ]
 tags: [ 일러스트, 우타보]
@@ -8,8 +8,8 @@ image: assets/images/book-summaries/story-background-illustration/cover-ko.jpg
 description: 
 featured: false
 hidden: false
-beforetoc: 우타보 작가의 '배경이 있는 캐릭터 일러스트 그리는 방법' 요약합니다.
-excerpt: 증정받은 도서를 요약합니다.
+beforetoc: 우타보 작가의 '배경이 있는 캐릭터 일러스트 그리는 방법'을 읽은 후기입니다.
+excerpt: 증정받은 도서를 읽은 후기입니다.
 toc: true
 comments: true
 rating: # 1~5까지 점수
