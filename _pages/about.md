@@ -64,12 +64,20 @@ comments: false
             <h2><span>지원 사업 수혜 내용</span></h2>
         </div>
         
-        
         <p class="mb-5">
         <h4>전자책 제작 지원 사업</h4>
         <ul>
-            <li><a href="https://m.site.naver.com/1ryMr" target="_blank">2022년 3차 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
-            <li><a href="https://m.site.naver.com/1ryMO" target="_blank">2021년 3차 처음 배우는 그래픽 레코딩</a></li>
+            <li><a href="https://m.site.naver.com/1ryMr" target="_blank">2022년 3차 - 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
+            <li><a href="https://m.site.naver.com/1ryMO" target="_blank">2021년 3차 - 처음 배우는 그래픽 레코딩</a></li>
+        </ul>
+        </p>
+
+        <p class="mb-5">
+        <h4>소상공인 온라인쇼핑몰 입점/판매지원사업</h4>
+        <ul>
+            <li><a href="https://tumblbug.com/zzom-procreate" target="_blank">2024년 텀블벅 - 캐릭터 일러스트 강좌 with 프로크리에이트</a></li>
+            <li><a href="https://tumblbug.com/scrum-master" target="_blank">2022년 텀블벅 - 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
+
         </ul>
         </p>
 
