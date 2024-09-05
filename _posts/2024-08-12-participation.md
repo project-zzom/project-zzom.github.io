@@ -48,8 +48,7 @@ product: false
 * 포함할 사진: 4장 이내 (예: 책 표지 1장, 마음에 드는 내용 1장)
 * 포함할 텍스트: 도서명 해시 태그 (예: #처음배우는그래픽레코딩)
 * 등록할 채널: SNS나 블로그 (예: 인스타그램, 페이스북, 쓰레드, 엑스, 브런치, 유튜브, 틱톡, ...)
-
-* <a href="https://forms.gle/FKwERUonoBJGS4ik7" target="_blank">독자 인증 참여</a>
+* <a href="https://forms.gle/FKwERUonoBJGS4ik7" target="_blank">독자 인증 참여하기</a>
 
 <div class="container">
     <div class="row">
@@ -68,8 +67,7 @@ product: false
 * 포함할 내용 1 : 책에 대한 소감(예: 좋았던 점, 아쉬웠던 점)
 * 포함할 내용 2: 도서명 해시 태그 (예: #출근했더니스크럼마스터가된건에관하여)
 * 등록할 채널: SNS, 블로그 (예: 인스타그램, 페이스북, 브런치, 유튜브, 릴스, ...)
-
-* <a href="https://forms.gle/3upGDS1UYcQivtaeA" target="_blank">서평 인증 참여</a>
+* <a href="https://forms.gle/3upGDS1UYcQivtaeA" target="_blank">서평 인증 참여하기</a>
 
 <div class="container">
     <div class="row">
@@ -88,8 +86,7 @@ product: false
 * 포함할 내용 1 : 책 내용을 실습한 과정, 결과 (예: 중간 결과, 최종 결과)
 * 포함할 내용 2: 도서명 해시 태그 (예: #출근했더니스크럼마스터가된건에관하여)
 * 등록할 채널: SNS, 블로그 (예: 인스타그램, 페이스북, 브런치, 유튜브, 릴스, ...)
-
-* <a href="https://forms.gle/h9MvLWgZXLXRQHsf6" target="_blank">실습 인증 참여</a>
+* <a href="https://forms.gle/h9MvLWgZXLXRQHsf6" target="_blank">실습 인증 참여하기</a>
 
 <div class="container">
     <div class="row">
@@ -110,8 +107,7 @@ product: false
 * 오탈자 의심 문구: 
 * 휴대폰 번호: 
 * 이메일 주소: 
-
-* <a href="https://forms.gle/B8kxdjLmprjK6NUh8" target="_blank">오탈자 제보</a>
+* <a href="https://forms.gle/B8kxdjLmprjK6NUh8" target="_blank">오탈자 제보하기</a>
 
 ## 특별 참여 프로그램
 비정기적으로 운영되는 프로그램입니다. 참여를 희망한다면 아래 페이지에서 뉴스레터를 신청하면 미리 알려드리겠습니다.
