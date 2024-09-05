@@ -152,13 +152,25 @@ blockquote {
 
 figcaption {
     font-size: 0.8em;
-    text-align: right;
+    text-align: center;
     color: gray;
 }
 
 figcaption.center {
     font-size: 0.8em;
     text-align: center;
+    color: gray;
+}
+
+figcaption.left {
+    font-size: 0.8em;
+    text-align: left;
+    color: gray;
+}
+
+figcaption.right {
+    font-size: 0.8em;
+    text-align: right;
     color: gray;
 }
 
@@ -174,7 +186,12 @@ div.article-post figure img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 640px;
+    width: 100%;
+}
+
+div.article-post figure img.border {
+    border: 1px;
+    border-color: gray;
 }
 
 div.article-post figure img.medium {
@@ -291,7 +308,7 @@ h4, h5, h6  {
 }
 
 div.note {
-    font-size: 0.8em;
+    font-size: 0.95em;
     background-color: GhostWhite;
     padding: 20px;
     border-radius: 10px;

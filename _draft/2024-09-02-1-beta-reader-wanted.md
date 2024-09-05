@@ -43,20 +43,23 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
     </div>
 </div>
 
+## 베타 리딩 목적
+기본적으로 독자 관점에서 통독할 때 흐름이 끊어지진 않는지를 살펴봅니다. 그 밖에도 다양한 잠재 독자의 의견을 수렴해서 출간 전의 원고를 보완합니다. 요컨대 출간 후에 불특정 다수의 독자가 책을 읽는 데 어려움을 겪지 않게 하는 것이 베타 리딩의 목적입니다.
+
+### 피드백의 목적
+* 전문가의 관점에서 잘 못된 부분이 있다면 피드백
+* 입문자의 관점에서 이해하기 힘든 부분이 있다면 피드백
+* 독자가 겪을 시행 착오 사전 제거
+
+### 후기의 목적
+* 베타 리더 관점별 책의 특성이나 후기 요약
+* 잠재 독자의 책 선택 판단 기준 제시
+
 ## 베타 리딩 기간
 * 공모 기간: ~ 2024/09/08
 * 활동 기간: 2024/09/09 ~ 2024/09/22 (주간)
 
-## 베타 리더 신청
-아래에서 신청 가능합니다.
-* <a href="https://forms.gle/CmTqzktYoKywpfcc7" target="_blank">베타 리더 신청</a>
 
-## 베타 리딩 목적
-
-기본적으로 독자 관점에서 통독할 때 흐름이 끊어지진 않는지를 살펴봅니다. 그 밖에도 다양한 잠재 독자의 의견을 수렴해서 출간 전의 원고를 보완합니다. 요컨대 출간 후에 불특정 다수의 독자가 책을 읽는 데 어려움을 겪지 않게 하는 것이 베타 리딩의 목적입니다.
-
-* 전문가의 관점에서 잘 못된 부분이 있다면 피드백
-* 입문자의 관점에서 이해하기 힘든 부분이 있다면 피드백
 
 
 [그림]
@@ -74,9 +77,8 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 자세한 내용은 다음 문서를 참고하세요.
 
 <ul>
-    <li><a href="./beta-reading-feedback.m
-d" target="_blank">베타 리더 피드백 가이드</a></li>
-    <li><a href="./beta-reading-review.md" target="_blank">베타 리더 후기 작성 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/3-beta-reading-feedback" target="_blank">베타 리더 피드백 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/4-beta-reading-review" target="_blank">베타 리더 후기 작성 가이드</a></li>
 </ul>
 
 ## 베타 리더 모집 인원 및 자격
@@ -94,8 +96,7 @@ d" target="_blank">베타 리더 피드백 가이드</a></li>
 베타 리딩 방법에 관한 상세 내용은 아래 문서를 참고하세요.
 
 <ul>
-    <li><a href="./beta-reading-process.m
-d" target="_blank">베타 리딩 절차 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/2-beta-reading-process" target="_blank">베타 리딩 절차 가이드</a></li>
 </ul>
 
 ## 베타 리더 리워드
@@ -105,23 +106,36 @@ d" target="_blank">베타 리딩 절차 가이드</a></li>
 * 3만원 상당의 선물
 
 베타 리더님의 미니멀 라이프를 위해 출간 도서에는 싸인이나 증정 도장을 찍지 않습니다. 마음 편히 책을 보시고 지인에게 선물하세요.
-감사 선물은 베타 리더님이 받으면 좋겠다 싶은 걸 제가 직접 골라서 보내드립니다. 같이 베타 리딩을 하더라도 서로 다른 선물을 받으실 수 있습니다. 아래는 이제까지 보내드린 감사 선물의 예시입니다. (왼쪽부터 핸드 워머, 캐릭터 찻잔, 수제 쿠키)
+감사 선물은 베타 리더님이 받으면 좋겠다 싶은 걸 제가 직접 골라서 보내드립니다. 같이 베타 리딩을 하더라도 서로 다른 선물을 받으실 수 있습니다. 아래는 이제까지 보내드린 감사 선물의 예시입니다.
 
 <div class="container">
     <div class="row">
         <div class="col ml-auto">
-        <img class="small rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-hand-wormer.jpg" alter="present">
+        <figure>
+        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-hand-wormer.jpg" alter="present">
+        <figcaption>핸드 워머</figcaption>
+        </figure>
         </div>
         <div class="col ml-auto">
-        <img class="small rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-tea-cup.jpg" alter="present">
+        <figure>
+        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-tea-cup.jpg" alter="present">
+        <figcaption>캐릭터 찻잔</figcaption>
+        </figure>
         </div>
         <div class="col ml-auto">
-        <img class="small rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-cookie.jpg" alter="present">
+        <figure>
+        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-cookie.jpg" alter="present">
+        <figcaption>수제 쿠키</figcaption>
+        </figure>
         </div>
     </div>
 </div>
 
-## 베타 리딩 중도 하차 가능
+## 베타 리더 신청
+아래에서 신청 가능합니다.
+* <a href="https://forms.gle/CmTqzktYoKywpfcc6" target="_blank">베타 리더 신청</a>
+
+## 베타 리딩 중도 하차
 책의 내용이 읽는 분의 가치관과 맞지 않을 수 있습니다. 
 베타 리딩 중 다음과 같은 이유에 대해서는 중도하차할 수 있습니다. 
 
@@ -140,7 +154,7 @@ ZZOM에서는 출간 전에 홍보 목적으로 '추천사'를 부탁드리지 �
 
 [그림] 
 출간 전 미완 원고: 추천 X, 베타 리딩 o
-출간 후 최종 도서: 추천 O, 
+출간 후 최종 도서: 추천 O
 
 
 ## 마무리
