@@ -4,7 +4,7 @@ title:  "베타 리더를 모집합니다 (캐릭터 일러스트 강좌 with �
 author: bomber
 categories: [ 베타 리딩 ]
 tags: [ 독자 참여 ]
-image: assets/images/beta-reading/reading-925589_1280.jpg
+image: assets/images/beta-reading/deep-blizzard-procreate/beta-reader-wanted-thumbnail.png
 description: 
 featured: true
 hidden: false
@@ -49,21 +49,24 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 ### 피드백의 목적
 * 전문가의 관점에서 잘 못된 부분이 있다면 피드백
 * 입문자의 관점에서 이해하기 힘든 부분이 있다면 피드백
-* 독자가 겪을 시행 착오 사전 제거
+* 독자가 겪을 시행착오 사전 제거
 
 ### 후기의 목적
 * 베타 리더 관점별 책의 특성이나 후기 요약
 * 잠재 독자의 책 선택 판단 기준 제시
 
 ## 베타 리딩 기간
-* 공모 기간: ~ 2024/09/08
-* 활동 기간: 2024/09/09 ~ 2024/09/22 (주간)
 
+베타 리더 모집 및 활동 기간은 아래와 같습니다. 조기 선발되는 경우 일찍 시작할 수 있습니다.
 
+* 공모 기간: ~ 2024/09/13
+* 활동 기간: 2024/09/16 ~ 2024/09/29 (2주간)
 
-
-[그림]
-베타 리더 읽고 > 번역자 고치고 > 독자는 편하게 읽는 모습
+<figure>
+<a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" target="_blank">
+<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" alter="present">
+</a>
+</figure>
 
 ## 베타 리딩 결과물
 
@@ -77,13 +80,14 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 자세한 내용은 다음 문서를 참고하세요.
 
 <ul>
-    <li><a href="{{ site.baseurl }}/3-beta-reading-feedback" target="_blank">베타 리더 피드백 가이드</a></li>
-    <li><a href="{{ site.baseurl }}/4-beta-reading-review" target="_blank">베타 리더 후기 작성 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/2-beta-reading-feedback" target="_blank">베타 리더 피드백 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/3-beta-reading-review" target="_blank">베타 리더 후기 작성 가이드</a></li>
 </ul>
 
 ## 베타 리더 모집 인원 및 자격
 
-다양한 잠재 독자의 관점을 파악하기 위해 아래 조건을 조합하여 네 분을 모십니다. 책의 성격이나 협업 방식에 따라 모집 조건은 달라질 수 있습니다.
+다양한 잠재 독자의 관점을 파악하기 위해 아래 조건을 조합하여 총 네 분을 모십니다. 책의 성격이나 협업 방식에 따라 모집 조건은 달라질 수 있습니다.
+(현재 두 분은 사전 선발 완료)
 
 | 분류 | 예시 |
 | - | - |
@@ -96,7 +100,7 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 베타 리딩 방법에 관한 상세 내용은 아래 문서를 참고하세요.
 
 <ul>
-    <li><a href="{{ site.baseurl }}/2-beta-reading-process" target="_blank">베타 리딩 절차 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/1-beta-reading-process" target="_blank">베타 리딩 절차 가이드</a></li>
 </ul>
 
 ## 베타 리더 리워드
@@ -133,7 +137,7 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 
 ## 베타 리더 신청
 아래에서 신청 가능합니다.
-* <a href="https://forms.gle/CmTqzktYoKywpfcc6" target="_blank">베타 리더 신청</a>
+* <a href="https://forms.gle/6CrcAv794LrqhVPWA" target="_blank">베타 리더 신청</a>
 
 ## 베타 리딩 중도 하차
 책의 내용이 읽는 분의 가치관과 맞지 않을 수 있습니다. 
@@ -145,21 +149,22 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 
 중도하차하더라도 미안해하실 필요는 없습니다. 다음엔 더 여유 있는 시간에 좋아하실만한 책을 골라서 다시 모시도록 하겠습니다. :)
 
-[그림]
-헤어지는 그림
+## FAQ: '추천사'가 아니라 '베타 리딩'인 이유
+ZZOM에서는 출간 전에 홍보 목적으로 '추천사'를 부탁드리지 않습니다. 출간 전 사전 리뷰는 홍보가 아닌 '품질 개선'이 목적이므로 여러분이 쓰신 후기는 '베타 리더 후기'로 엄격히 구분하고 있습니다.
 
-## '추천사'가 아니라 '베타 리딩'인 이유
-ZZOM에서는 출간 전에 홍보 목적으로 '추천사'를 부탁드리지 않습니다. 출간 전 사전 리뷰는 홍보가 아닌 '품질 개선'이 목적이므로 여러분이 쓰신 후기는 '베타 리더 후기'로 명확히 구분하고 있습니다.
-출간 전에 '추천사'를 받지 않는 이유는 출간 후의 최종 결과물에 대해 독자가 느낀 점을 공유하는 게 진짜 독자 후기이고 추천사가 된다고 생각하기 때문입니다. 무엇보다 읽기 거칠고 결함을 안고 있는 원고를 감히 '추천'해달라고 말씀 못 드리는 이유가 큽니다. 출간 전에는 잠재 독자의 피드백을 수집하고 품질을 개선하는 데 총력을 다하겠습니다.
+출간 전에 '추천사'를 받지 않는 이유는 출간 후의 최종 결과물에 대해 독자가 느낀 점을 공유하는 게 진짜 독자 후기이고 추천사가 된다고 생각하기 때문입니다. 무엇보다 읽기 거칠고 잠재 결함을 안고 있는 원고에 대해 감히 추천'을 부탁드리는 건 도리가 아니라고 생각하기 때문입니다. 출간 전에는 잠재 독자의 피드백을 수집하고 품질을 개선하는 데 총력을 다하겠습니다. '의리상 좋게 소개'하는 게 아니라 진심으로 기분 좋게 '추천'할 수 있도록 좋은 책 잘 만들어 보겠습니다.
 
-[그림] 
-출간 전 미완 원고: 추천 X, 베타 리딩 o
-출간 후 최종 도서: 추천 O
+<figure>
+<a href="{{ site.baseurl }}/assets/images/beta-reading/recommanded-word-vs-beta-reader-reviw.png" target="_blank">
+<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/recommanded-word-vs-beta-reader-reviw.png" alter="present">
+</a>
+</figure>
 
 
 ## 마무리
 앞으로도 좋은 책을 발굴해서 한국 독자가 읽기 좋게 옮겨보겠습니다.
 도움 주시는 후원자님, 기존 독자님, 잠재 독자님 모두 감사합니다!
 
-[그림]
-밝게 인사하는 모습
+<figure>
+<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+</figure>

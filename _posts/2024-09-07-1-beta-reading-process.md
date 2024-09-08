@@ -4,7 +4,7 @@ title:  "베타 리딩 절차를 안내합니다 (캐릭터 일러스트 강좌 
 author: bomber
 categories: [ 베타 리딩 ]
 tags: [ 독자 참여 ]
-image: assets/images/beta-reading/reading-925589_1280.jpg
+image: assets/images/beta-reading/deep-blizzard-procreate/beta-reading-process-thumbnail.png
 description: 
 featured: true
 hidden: false
@@ -25,6 +25,12 @@ product: false
 ## 베타 리딩 절차 안내
 
 빠르게 확인하기 위한 '간략한 안내'와 자세히 확인하기 위한 '자세한 안내'를 준비했습니다.
+베타 리딩 피드백과 후기 작성 방법은 아래 내용을 참고하세요.
+
+<ul>
+    <li><a href="{{ site.baseurl }}/2-beta-reading-feedback" target="_blank">베타 리더 피드백 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/3-beta-reading-review" target="_blank">베타 리더 후기 작성 가이드</a></li>
+</ul>
 
 ### 간략한 안내
 
@@ -40,7 +46,12 @@ product: false
 5. 1번으로 돌아간다. 베타 리딩 기간 중에 반복한다.
 6. 피드백이 정리되면 출간 전 최종 원고에 반영한다.
 
-[그림]
+
+<figure>
+<a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" target="_blank">
+<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" alter="present">
+</a>
+</figure>
 
 #### 베타 리딩 후의 프로세스
 1. 번역자는 베타 리더에게 후기를 요청한다.
@@ -49,8 +60,11 @@ product: false
 4. 2번으로 돌아간다. 최종 원고 확정 전까지 반복한다.
 5. 후기가 정리되면 최종 원고 확정하고 출간한다.
 
-[그림]
-
+<figure>
+<a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-review-flow.png" target="_blank">
+<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-review-flow.png" alter="present">
+</a>
+</figure>
 
 ### 자세한 안내
 번역자는 책 파일을 PDF 파일로 생성한 후 베타 리더에게 공유합니다.
@@ -332,4 +346,6 @@ product: false
 
 * 이메일: project.zzom@gmail.com
 
-[그림]
+<figure>
+<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+</figure>
