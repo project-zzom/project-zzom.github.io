@@ -35,10 +35,16 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 <div class="container">
     <div class="row">
         <div class="col ml-auto">
-        <img class="small rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ja.png" alter="book cover ja">
+        <figure>
+        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ja.png" alter="book cover ja">
+        <figcaption>원서 표지</figcaption>
+        </figure>
         </div>
         <div class="col ml-auto">
-        <img class="small rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ko.png" alter="book cover ko">
+        <figure>
+        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ko.png" alter="book cover ko">
+        <figcaption>번역서 표지(확정 전)</figcaption>
+        </figure>
         </div>
     </div>
 </div>
