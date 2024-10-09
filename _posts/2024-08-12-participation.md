@@ -4,7 +4,7 @@ title:  "독차 참여 프로그램 소개"
 author: bomber
 categories: [ 출판사 ]
 tags: [ 독자 참여 ]
-image: assets/images/participation-program/books-1617327_1280.jpg
+image: "assets/images/participation-program/naver-pay-point (reward) (960x600).png"
 description: 
 featured: true
 hidden: false
