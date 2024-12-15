@@ -33,7 +33,7 @@ comments: false
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
             <div class="video-container">
-                <iframe src="https://youtu.be/P-LUqwK5avY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                {% include video id="P-LUqwK5avY" provider="youtube" %}
             </div>
             <br/>
             <div class="video-container">
