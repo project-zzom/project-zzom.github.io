@@ -33,8 +33,7 @@ comments: false
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
             <div class="video-container">
-                {% include video id="P-LUqwK5avY" provider="youtube" %}
-                <iframe src="https://youtu.be/P-LUqwK5avY?si=wEYL1bz8fs2lFPKF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/P-LUqwK5avY?si=DeNPacX6-Wr-yw3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <br/>
             <div class="video-container">
