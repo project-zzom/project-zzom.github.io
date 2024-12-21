@@ -13,9 +13,9 @@ comments: false
 
         <h4>자체 스토어</h4>
         <ul>           
-            <li><a href="https://smartstore.naver.com/zzom/" target="_blank">네이버 스마트스토어</a></li>
-            <li><a href="https://store.kakao.com/zzom" target="_blank">카카오 톡스토어</a></li>
-            <li><a href="https://idus.kr/FYxfm" target="_blank">idus</a></li>
+            <li><a href="https://smartstore.naver.com/zzom/" target="_blank">스마트스토어</a></li>
+            <li><a href="https://store.kakao.com/zzom" target="_blank">톡스토어</a></li>
+            <li><a href="https://shop.coupang.com/zzom" target="_blank">쿠팡</a></li>
         </ul>
 
         <h4>온라인 서점</h4>

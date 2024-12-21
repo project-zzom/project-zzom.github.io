@@ -23,7 +23,11 @@ comments: false
             <li><a href="mailto:project.zzom@gmail.com">이메일</a></li>
         </ul>
 
-        
+        <h4>독자 참여 프로그램 소개</h4>
+        <ul>
+            <li><a href="https://zzom.io/participation/">참여 방법 안내</a></li>
+        </ul>
+
     </div>
 
     <!-- sticky pannel -->
