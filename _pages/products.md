@@ -14,7 +14,7 @@ comments: false
 
         <ul>
             <li><a href="https://zzom.io/character-illustration-with-clip-studio-paint/" target="_blank">캐릭터 일러스트 강좌 with 클립 스튜디오 페인트 (2025년 출간 예정)</a></li> 
-            <li><a href="https://zzom.io/character-illustration-with-procreate/" target="_blank">캐릭터 일러스트 강좌 with 프로크리에이트 (2024년 12월 출간 예정)</a></li> 
+            <li><a href="https://zzom.io/character-illustration-with-procreate/" target="_blank">캐릭터 일러스트 강좌 with 프로크리에이트</a></li> 
             <li><a href="https://zzom.io/scrum-master/" target="_blank">출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
             <li><a href="https://zzom.io/graphic-recording/" target="_blank">처음 배우는 그래픽 레코딩</a></li>
         </ul>
