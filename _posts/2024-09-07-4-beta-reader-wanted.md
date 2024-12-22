@@ -6,7 +6,7 @@ categories: [ 베타 리딩 ]
 tags: [ 독자 참여 ]
 image: assets/images/beta-reading/deep-blizzard-procreate/beta-reader-wanted-thumbnail.png
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 누구보다 먼저 책을 읽고 혜택을 받으세요!
 excerpt: 누구보다 먼저 책을 읽고 혜택을 받으세요!

@@ -6,7 +6,7 @@ categories: [ 베타 리딩 ]
 tags: [ 독자 참여 ]
 image: assets/images/beta-reading/beta-reader-selection.png
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 도움 주실 귀한 분을 모셨습니다.
 excerpt: 도움 주실 귀한 분을 모셨습니다.

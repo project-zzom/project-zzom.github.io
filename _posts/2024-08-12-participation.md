@@ -6,7 +6,7 @@ categories: [ 출판사 ]
 tags: [ 독자 참여 ]
 image: "assets/images/participation-program/naver-pay-point (reward) (960x600).png"
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: ZZOM의 독자 참여 프로그램을 소개합니다.
 excerpt: ZZOM의 독자 참여 프로그램을 소개합니다.
