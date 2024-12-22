@@ -48,7 +48,7 @@ product: false
 그래서 이전 프로젝트 결과물에 비해 상세 페이지는 이전보다 조금은 내용이 풍성해진 느낌이 날 겁니다.
 여전히 배울 것도 많고 시험해봐야 할 것도 많지만 하나씩 성실하게 배우고 실천해보려 합니다. 
 
-## 대충 알겠고 그래서 책은 어떻게 생겼는데?
+## 대충 알겠고 그래서 책은 어떻게 생겼는데요?
 
 거두절미하고 완성된 책에 대해 소개드리겠습니다. 
 자세한 건 <a href="https://zzom.io/character-illustration-with-procreate/" target="_blank">도서 지원 페이지</a>와 다양한 <a href="https://zzom.io/character-illustration-with-procreate/shop/" target="_blank">판매 채널</a>에 이미 등록해 두었습니다.
