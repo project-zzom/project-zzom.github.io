@@ -13,16 +13,16 @@ comments: false
 
         <h4>자체 스토어</h4>
         <ul>           
-            <li><a href="https://smartstore.naver.com/zzom/" target="_blank">네이버 스마트스토어</a></li>
-            <li><a href="https://store.kakao.com/zzom" target="_blank">카카오 톡스토어</a></li>
-            <li><a href="https://shop.coupang.com/zzom" target="_blank">쿠팡 마이샵</a></li>
+            <li><a href="https://smartstore.naver.com/zzom/" target="_blank" class="link-shop">네이버 스마트스토어</a></li>
+            <li><a href="https://store.kakao.com/zzom" target="_blank" class="link-shop">카카오 톡스토어</a></li>
+            <li><a href="https://shop.coupang.com/zzom" target="_blank" class="link-shop">쿠팡 마이샵</a></li>
         </ul>
 
         <h4>온라인 서점</h4>
         <ul>
-            <li><a href="https://search.kyobobook.co.kr/search?keyword=ZZOM" target="_blank">교보문고</a></li>
-            <li><a href="https://www.aladin.co.kr/search/wsearchresult.aspx?SearchWord=zzom" target="_blank">알라딘</a></li>
-            <li><a href="https://www.yes24.com/Product/Search?query=ZZOM" target="_blank">Yes24</a></li>
+            <li><a href="https://search.kyobobook.co.kr/search?keyword=ZZOM" target="_blank" class="link-shop">교보문고</a></li>
+            <li><a href="https://www.aladin.co.kr/search/wsearchresult.aspx?SearchWord=zzom" target="_blank" class="link-shop">알라딘</a></li>
+            <li><a href="https://www.yes24.com/Product/Search?query=ZZOM" target="_blank" class="link-shop">Yes24</a></li>
         </ul>
 
         
