@@ -154,3 +154,69 @@ product: false
         </div>
     </div>
 </div>
+
+## 리워드 확인 방법
+
+독자 참여의 리워드로 보낸 네이버페이 포인트는 아래와 같은 방법으로 확인할 수 있습니다.
+
+### SMS 문자 메시지로 확인하기
+
+리워드 발송 즉시 아래와 같은 SMS 메시지가 발송됩니다. 
+최근 피싱 사이트로 유도하는 URL 링크가 급증하여 클릭하기 망설여질 수 있는데요.
+그때는 뒤에 안내하는 네이버톡 알림으로 확인하는 방법을 참고하세요.
+
+<div class="row">
+    <div class="col ml-auto">
+    <figure>
+    <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-sms.png" target="_blank">
+    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-sms.png" alter="">
+    </a>
+    <figcaption>SMS 메시지</figcaption>
+    </figure>
+    </div>
+</div>
+
+### 네이버톡으로 확인하기
+
+네이버톡으로 아래와 같은 메시지가 도착할 겁니다.
+네이버 알림(종 모양 아이콘)이 아니라 네이버톡(말풍선 아이콘)으로 확인할 수 있습니다.
+
+* https://talks.naver.com/
+
+<div class="row">
+    <div class="col ml-auto">
+    <figure>
+    <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-1.png" target="_blank">
+    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-1.png" alter="">
+    </a>
+    <figcaption>PC 네이버톡 알림</figcaption>
+    </figure>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col ml-auto">
+    <figure>
+    <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-2.png" target="_blank">
+    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-2.png" alter="">
+    </a>
+    <figcaption>PC 네이버톡 메시지</figcaption>
+    </figure>
+    </div>
+</div>
+
+### 네이버페이 선물함에서 확인하기
+
+네이버페이 선물함에서도 확인할 수 있습니다.
+* https://gift.naver.com/mygift/
+
+<div class="row">
+    <div class="col ml-auto">
+    <figure>
+    <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-myfigt.png" target="_blank">
+    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-mygift.png" alter="">
+    </a>
+    <figcaption>PC 네이버페이 선물함</figcaption>
+    </figure>
+    </div>
+</div>
