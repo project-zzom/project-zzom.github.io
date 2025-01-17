@@ -4,7 +4,7 @@ title:  "배송, 반품, 교환 정책 안내"
 author: bomber
 categories: [ 배송, 반품, 교환 ]
 tags: [ 배송, 반품, 교환 ]
-image: "assets/images/shipping/openart_mEWsG_Tv_upscaled.jpg"
+image: "assets/images/ai-model/girl-holding-box-blue-hoodie.png"
 description: 
 featured: true
 hidden: false
@@ -25,8 +25,8 @@ product: false
 ## 문의처
 배송, 반품, 교환과 관련된 문의는 아래 연락처로 주십시오.
 
-* 이메일: project.zzom@gmail.com
-* 카카오톡: https://pf.kakao.com/_kvrnK
+* 이메일: <a href="mailto:project.zzom@gmail.com">project.zzom@gmail.com</a>
+* 카카오톡: <a href="https://pf.kakao.com/_kvrnK" target="_blank">https://pf.kakao.com/_kvrnK</a>
 
 ## 배송 정책
 * 무료 배송이 원칙입니다.
