@@ -1,5 +1,10 @@
 ---
 layout: none
 ---
-User-agent: *
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
 Sitemap: {{ site.url }}/sitemap.xml
