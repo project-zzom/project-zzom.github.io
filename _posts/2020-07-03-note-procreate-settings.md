@@ -47,8 +47,7 @@ last_modified_at: # YYYY-MM-DD
 <a href="https://note.com/kuboasa/m/m1a133619a3a7" target="_blank">'그래픽 레코딩의 비밀'</a>에서 그래픽 레코딩을 하면서 겪게 되는 다양한 이야기를 연재하고 있어요.
 앞서 전에 썼던 프로크리에이트 관련 게시물을 많은 분들이 읽어주셨네요. 감사합니다. ^^ 아직 읽지 못했다면 다음 게시물을 참고하세요. 
 
-* [](2020-07-03 note-procreate-settings.md)
-<a href="https://zzom.io/note-procreate-features/" target="_blank">프로크리에이트로 그림 그릴 때 꼭 써봐야 할 11가지 추천 기능</a>
+* <a href="https://zzom.io/note-procreate-features/" target="_blank">프로크리에이트로 그림 그릴 때 꼭 써봐야 할 11가지 추천 기능</a>
 
 오늘은 아이패드와 프로크리에이트로 디지털 그래픽 레코딩을 할 때 알아두면 좋을 설정 팁을 소개합니다!
 

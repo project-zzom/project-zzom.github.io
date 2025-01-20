@@ -20,7 +20,7 @@ last_modified_at: # YYYY-MM-DD
 앞서 필자는 독자 피드백을 받는 방법으로 GitHub의 Issue 기능을 쓰기로 했다고 결정한 바 있다. 
 핑계가 궁금하다면 아래 포스트 참고하자.
 
-* <a href="{{ site.baseurl }}/-github-issue-templates/" target="_blank">Issues 템플릿을 만들면 재사용이 되더라고</a>
+* <a href="{{ site.baseurl }}/github-issue-templates/" target="_blank">Issues 템플릿을 만들면 재사용이 되더라고</a>
 
 이슈로 피드백을 하는 방법은 IT 분야를 경험한 사람에겐 그리 어렵지 않은 방법이다. 다만 일반 사용자가 처음 이슈 기능을 사용하면 다소 당황하게 되는데, 게시판이라고 생각하고 쓴 글이 소스 코드를 변경하고, 병합하는 데 활용되다 보니 뒤에서 벌어지는 동작에 부담을 느끼기 때문이다. 
 특히나 제기한 이슈가 반려<sub>(reject)</sub>되거나 <sub>(duplicated)</sub> 되었다고 통보받는 날엔 기껏 도움되는 얘길 한 것 같은데 찬밥 신세가 된 것 같아 섭섭한 마음도 생길 터이다. 

@@ -24,7 +24,7 @@ product: true
     <b>관련 페이지</b>
     <ul>
         <li><a href="https://link.tumblbug.com/myv78TQoMFb" target="_blank">텀블벅 크라우드펀딩</a></li>
-        <li><a href="https://zzom.io/graphic-recording-workbook/" target="_blank">처음 배우는 그래픽 레코딩</a></li>
+        <li><a href="https://zzom.io/graphic-recording/" target="_blank">처음 배우는 그래픽 레코딩</a></li>
     </ul>    
   
     <b>판매처 정보</b>
