@@ -36,7 +36,7 @@ comments: false
         <figure>        
             <img class="" src="{{site.baseurl}}/assets/images/products/thumbnail/procreate (1024 x 1024).png" alt="procreate" />
         </figure>
-        <h3>캐릭터 일러스트 강좌 with 프로크리에이트</h3>        
+        <h3>캐릭터 일러스트 강좌 with 프로크리에이트</h3>
         <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="link-shop">카카오 톡스토어</a> / 
         <a href="https://www.coupang.com/vp/products/8486619053?itemId=24561130530" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
