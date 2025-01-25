@@ -70,7 +70,7 @@ comments: false
     </div>
 </div>
 
-<h3>기타 제품</h3>
+<h2>기타 제품</h2>
 <div class="row">
     <div class="col-lg-3 col-md-6">
         <figure>        
