@@ -7,7 +7,7 @@ comments: false
 ---
 <div class="row">
     <div class="col">
-        <p>ZZOM에서 만든 결과물은 아래의 채널에서 구할 수 있습니다.</p>
+        <h2>판매 채널</h2>
         <ul>
             <li>
             자체 스토어: <a href="https://smartstore.naver.com/zzom/" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
@@ -23,7 +23,7 @@ comments: false
     </div>
 </div>
 
-<h3>도서 제품</h3>
+<h2>도서 제품</h2>
 <div class="row">
     <div class="col-lg-3 col-md-6">
         <figure>        

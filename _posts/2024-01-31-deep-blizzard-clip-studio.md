@@ -2,8 +2,8 @@
 layout: post
 title:  "[원서 언박싱] 가제: 캐릭터 일러스트 초입문 with 클립 스튜디오"
 author: bomber
-categories: [ 캐릭터, 일러스트, 클립 스튜디오 ]
-tags: [ 캐릭터, 일러스트, 클립 스튜디오 ]
+categories: [ 언박싱, 캐릭터, 일러스트, 클립 스튜디오 ]
+tags: [ 언박싱, 캐릭터, 일러스트, 클립 스튜디오 ]
 image: assets/images/products/deep-blizzard-clip-studio/cover-ja.jpg
 description: 
 featured: false
@@ -14,7 +14,7 @@ toc: true
 comments: true
 rating: # 1~5까지 점수
 last_modified_at: # YYYY-MM-DD
-product: true
+product: false
 ---
 
 

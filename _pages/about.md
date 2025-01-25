@@ -18,10 +18,10 @@ comments: false
         </p>
 
         <figure>        
-            <img class="" src="{{site.baseurl}}/assets/images/about/zzom-banner-light (1024 x 682).jpg" alt="zzom-banner" />
+            <img class="medium" src="{{site.baseurl}}/assets/images/about/zzom-banner-light (1024 x 682).jpg" alt="zzom-banner" />
         </figure>        
 
-       <h4>프로젝트 철학</h4>
+       <h2>프로젝트 철학</h2>
        독립출판이란 대형 출판사가 상업적인 기획과 제작 방식으로 책을 만드는 것과 달리 개인이나 소수가 실험적인 기획과 제작 방식으로 책을 만드는 걸 의미합니다. 1인출판이란 혼자서 출판사를 만들고, 기획하고, 집필(번역)하고, 편집하고, 제작하고, 마케팅해서 책을 만드는 걸 의미합니다. 
 프로젝트 ZZOM은 이 두 가지 특징을 모두 가지고 '읽어 보니 좋았던 책을 함께 볼 수 있게 번역합니다'란 모토 아래 번역자의 취향과 가치관에 맞는 책을 골라 비슷한 취향의 독자에게 소개하는 큐레이션 프로젝트입니다. ZZOM의 번역서는 다음과 같은 철학으로 만들어집니다.
 
@@ -32,7 +32,7 @@ comments: false
             <li>번역서를 매개로 같은 관심사를 가진 원서 저자와 한국의 관계자, 독자 간의 교류를 돕습니다.</li>
         </ul>
 
-       <h4>프로젝트 프로세스</h4>
+       <h2>프로젝트 프로세스</h2>
 
         <ol>
             <li>읽은 책 중 혼자 보기 아까운 걸 엄선합니다.</li>
@@ -49,7 +49,7 @@ comments: false
         프로젝트를 지속하는 데 큰 힘이 됩니다!
         </blockquote>
 
-        <h4>프로젝트 근황 공유</h4>
+        <h2>프로젝트 근황 공유</h2>
         아래의 채널에서 프로젝트 진행 과정을 볼 수 있습니다.
         <ul>
             <li>영상: <a href="https://www.youtube.com/@zzom" target="_blank">유튜브</a> / <a href="https://www.tiktok.com/@project.zzom" target="_blank">틱톡</a></li>
@@ -61,9 +61,8 @@ comments: false
             <h2><span>운영자 소개</span></h2>
         </div>
         
-        
         <p class="mb-5">
-        <h4>신상재</h4> 
+        <h3>신상재</h3> 
         aka 번역하는 개발자 / 삼성SDS Software Architect<br/>
         부산대학교 컴퓨터공학과 졸업 후 삼성SDS에서 소프트웨어 아키텍트와 품질 기술 업무를 하고 있다. 시스템을 기획, 설계, 개발, 운영하는 과정에서 축적된 지식과 엔지니어링 기법을 기술서를 읽고 입문서를 만드는 데 활용하고 있다. 역서로 『출근했더니 스크럼 마스터가 된 건에 관하여』, 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
         <ul>
@@ -76,7 +75,7 @@ comments: false
         </div>
         
         <p class="mb-5">
-        <h4>전자책 제작 지원 사업</h4>
+        <h3>전자책 제작 지원 사업</h3>
         <ul>
             <li><a href="https://m.site.naver.com/1ryMr" target="_blank">2022년 3차 - 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
             <li><a href="https://m.site.naver.com/1ryMO" target="_blank">2021년 3차 - 처음 배우는 그래픽 레코딩</a></li>
@@ -84,14 +83,12 @@ comments: false
         </p>
 
         <p class="mb-5">
-        <h4>소상공인 온라인쇼핑몰 입점/판매지원사업</h4>
+        <h3>소상공인 온라인쇼핑몰 입점/판매지원사업</h3>
         <ul>
             <li><a href="https://tumblbug.com/zzom-procreate" target="_blank">2024년 텀블벅 - 캐릭터 일러스트 강좌 with 프로크리에이트</a></li>
             <li><a href="https://tumblbug.com/scrum-master" target="_blank">2022년 텀블벅 - 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
-
         </ul>
         </p>
-
     </div>
 
     <div class="col-md-4">
