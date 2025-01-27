@@ -10,13 +10,13 @@ comments: false
         <h2>판매 채널</h2>
         <ul>
             <li>
-            자체 스토어: <a href="https://smartstore.naver.com/zzom/" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
+            ZZOM 스토어: <a href="https://smartstore.naver.com/zzom/" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
             <a href="https://store.kakao.com/zzom" target="_blank" class="link-shop">카카오 톡스토어</a> / 
             <a href="https://shop.coupang.com/zzom" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
             <a href="https://www.postype.com/@project-zzom" target="_blank" class="link-shop">포스타입 스토어</a>
             </li>
             <li>
-            온라인 서점: <a href="https://search.kyobobook.co.kr/search?keyword=ZZOM" target="_blank" class="link-shop">교보문고</a> / 
+            온오프라인 서점: <a href="https://search.kyobobook.co.kr/search?keyword=ZZOM" target="_blank" class="link-shop">교보문고</a> / 
             <a href="https://www.aladin.co.kr/search/wsearchresult.aspx?SearchWord=zzom" target="_blank" class="link-shop">알라딘</a> / 
             <a href="https://www.yes24.com/Product/Search?query=ZZOM" target="_blank" class="link-shop">Yes24</a>
             </li>
