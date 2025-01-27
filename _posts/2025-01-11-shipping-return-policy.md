@@ -45,5 +45,5 @@ product: false
 * 상품 수령 후 7일 이내 반품/교환 가능합니다.
 * 판매 플랫폼에서 '구매확정' 이후에는 무료 반품/교환이 불가능할 수 있습니다.
 
-* <a href="https://smartstore.naver.com/zzom/" target="_blank">네이버 스마트스토어</a>, <a href="https://store.kakao.com/zzom" target="_blank">카카오 톡스토어</a>, <a href="https://shop.coupang.com/zzom" target="blank">쿠팡 마이샵</a>, 토스 쇼핑에서 구입한 경우 위 연락처로 문의 하십시오. 해당 시점에 수거 가능한 반품지를 안내드리겠습니다.
+* <a href="https://smartstore.naver.com/zzom/" target="_blank">네이버 스마트스토어</a>, <a href="https://store.kakao.com/zzom" target="_blank">카카오 톡딜</a>, <a href="https://shop.coupang.com/zzom" target="blank">쿠팡 마이샵</a>, 토스 쇼핑에서 구입한 경우 위 연락처로 문의 하십시오. 해당 시점에 수거 가능한 반품지를 안내드리겠습니다.
 * <a href="https://search.kyobobook.co.kr/search?keyword=ZZOM" target="_blank">교보문고</a>, <a href="https://www.aladin.co.kr/search/wsearchresult.aspx?SearchWord=zzom" target="_blank">알라딘</a>, <a href="https://www.yes24.com/Product/Search?query=ZZOM" target="_blank">Yes24</a>에서 구입한 경우 해당 플랫폼의 반품/교환 절차를 따라 주십시오.
