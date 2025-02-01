@@ -2,7 +2,7 @@
 layout: post
 title:  "과연 크라우드펀딩 후원자는 호구인 걸까?"
 author: bomber
-categories: [크라우드펀딩]
+categories: [크라우드펀딩, 그래픽 레코딩]
 tags: [처음 배우는 그래픽 레코딩, 크라우드펀딩, 텀블벅]
 image: assets/images/crowdfunding/girl-1034421_1920.jpg
 image-caption: 이미지 출처 <a href="https://pixabay.com/ko/users/klimkin-1298145/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1034421">klimkin</a>

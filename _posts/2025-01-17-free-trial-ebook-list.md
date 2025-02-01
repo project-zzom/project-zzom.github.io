@@ -2,7 +2,7 @@
 layout: post
 title:  "체험판 무료 전자책 안내"
 author: bomber
-categories: [ 무료, 체험, 전자책 ]
+categories: [ 무료, 체험, 전자책, 그래픽 레코딩, 스크럼 마스터, 플래닝 화투, 프로크리에이트 ]
 tags: [ 무료, 체험, 전자책 ]
 image: "assets/images/ai-model/girl-reading-book-white-hoodie.png"
 description: 
