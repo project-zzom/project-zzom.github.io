@@ -2,7 +2,7 @@
 layout: post
 title:  "베타 리더를 모집합니다 (캐릭터 일러스트 강좌 with 프로크리에이트)"
 author: bomber
-categories: [ 베타 리딩 ]
+categories: [ 베타 리딩, 프로크리에이트 ]
 tags: [ 독자 참여 ]
 image: assets/images/beta-reading/deep-blizzard-procreate/beta-reader-wanted-thumbnail.png
 description: 
