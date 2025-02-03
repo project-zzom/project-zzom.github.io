@@ -2,7 +2,7 @@
 layout: post
 title:  "플래닝 화투"
 author: bomber
-categories: [ 애자일, 스크럼]
+categories: [ 애자일, 스크럼, 플래닝 화투, 플래닝 포커]
 tags: [애자일, 스크럼, 프로덕트 오너, 스크럼 마스터, 플래닝 화투, 플래닝 포커]
 image: assets/images/products/planning-hwatu/main.png
 description: 

@@ -2,8 +2,8 @@
 layout: post
 title:  "한국 개발자는 스크럼을 어떻게 하고 있을까? #2"
 author: bomber
-categories: [ 애자일, 스크럼 ]
-tags: [애자일, 스크럼, 프로덕트 오너, 스크럼 마스터]
+categories: [ 애자일, 스크럼, 플래닝 화투, 플래닝 포커 ]
+tags: [애자일, 스크럼, 프로덕트 오너, 스크럼 마스터, 플래닝 화투, 플래닝 포커]
 image: assets/images/korea-scrum/student-849822_1280.jpg
 description: 
 featured: false

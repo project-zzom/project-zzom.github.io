@@ -2,8 +2,8 @@
 layout: post
 title:  "출근했더니 스크럼 마스터가 된 건에 관하여"
 author: bomber
-categories: [ 애자일, 스크럼 ]
-tags: [애자일, 스크럼, 프로덕트 오너, 스크럼 마스터]
+categories: [ 애자일, 스크럼, 플래닝 화투, 플래닝 포커 ]
+tags: [애자일, 스크럼, 프로덕트 오너, 스크럼 마스터, 플래닝 화투, 플래닝 포커]
 image: assets/images/products/scrum-master/main.png
 description: 
 featured: false
