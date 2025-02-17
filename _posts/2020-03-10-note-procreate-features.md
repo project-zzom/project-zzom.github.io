@@ -162,11 +162,11 @@ last_modified_at: # YYYY-MM-DD
 
     <figure>
     <a href="https://tum.bg/tgLB7f" target="_blank">
-    <img class="large" src="{{ site.baseurl }}/assets/images/graphic-recording/main-image.png" alter=""></a>
+    <img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording/main-image.png" alter=""></a>
     </figure>    
 
     <figure>
     <a href="https://youtu.be/66ZZql76PNI" target="_blank">
-    <img class="large" src="{{ site.baseurl }}/assets/images/note-procreate-features/217.png" alter=""></a>
+    <img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/note-procreate-features/217.png" alter=""></a>
     </figure>
 </div>

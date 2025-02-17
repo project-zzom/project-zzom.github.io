@@ -38,13 +38,13 @@ product: false
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ja.png" alter="book cover ja">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ja.png" alter="book cover ja">
         <figcaption>원서 표지</figcaption>
         </figure>
         </div>
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ko.png" alter="book cover ko">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ko.png" alter="book cover ko">
         <figcaption>번역서 표지(확정 전)</figcaption>
         </figure>
         </div>
@@ -76,7 +76,7 @@ ZZOM에서는 리스크 관리에 80:20의 원칙을 적용합니다.
 비교적 안정된 프로세스나 자원은 80, 모험이 필요한 프로세스나 자원은 20의 비중을 두는데요. 
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/beta-reading/stability-vs-risk.png" alter="present">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/stability-vs-risk.png" alter="present">
 </figure>
 
 이번 베타 리딩에는 바로 인쇄해도 될 정도의 완성도의 파일을 공유하는 터라 파일 유출의 리스크를 헷징 할 필요가 있었습니다. 
@@ -115,7 +115,7 @@ ZZOM에서는 리스크 관리에 80:20의 원칙을 적용합니다.
 MP3 음원 한 곡도 구입하지 못하는 정말 얼마 안 되는 선물입니다만 나중에 네이버 장보기나 쇼핑 등에서 활용해 주시면 좋겠습니다.
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/naver-pay/naver-pay-point-500.png" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/naver-pay/naver-pay-point-500.png" alter="present">
 </figure>
 
 
@@ -126,7 +126,7 @@ MP3 음원 한 곡도 구입하지 못하는 정말 얼마 안 되는 선물입�
 안내와 공유 과정에서 제가 살짝 실수를 하는 바람에 다소 혼란스러운 일이 있었던 터라 저만 잘하면 별 탈 없을 것 같습니다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-briefing.png" alter="present">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-briefing.png" alter="present">
 </figure>
 
 한편 베타 리딩 중인 원고와 같은 내용을 원서 저작권사와 작가님께 검수 요청해 둔 상태입니다.
@@ -138,5 +138,5 @@ MP3 음원 한 곡도 구입하지 못하는 정말 얼마 안 되는 선물입�
 도움 주시는 후원자님, 기존 독자님, 잠재 독자님 모두 감사합니다!
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
 </figure>

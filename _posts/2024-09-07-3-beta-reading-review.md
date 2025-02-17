@@ -68,7 +68,7 @@ product: false
 아래는 예시로 만든 목업(mockup) 페이지로 텍스트는 글자 수 확인을 위한 예문이고 이미지는 AI로 생성된 이미지입니다.
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/review/mockup.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/review/mockup.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/review/mockup.png" alter="present">
 </a>
 <figcaption class="left">베타 리더 후기 페이지 예시</figcaption>
 </figure>
@@ -100,19 +100,19 @@ product: false
 #### 베타 리더 후기 (처음 배우는 그래픽 레코딩)
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-001.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-001.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-001.png" alter="present">
 </a>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-002.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-002.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-002.png" alter="present">
 </a>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-003.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-003.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/review/graphic-recording-003.png" alter="present">
 </a>
 </figure>
 
@@ -120,13 +120,13 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/review/scrum-master-001.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/review/scrum-master-001.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/review/scrum-master-001.png" alter="present">
 </a>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/review/scrum-master-002.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/review/scrum-master-002.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/review/scrum-master-002.png" alter="present">
 </a>
 </figure>
 
@@ -135,5 +135,5 @@ product: false
 별도의 온라인 입력 양식을 준비해서 이메일을 통해 전달됩니다. 부담없이 자유롭게 후기를 남겨 주세요. 
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
 </figure>

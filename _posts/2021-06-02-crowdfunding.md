@@ -35,7 +35,7 @@ last_modified_at: # YYYY-MM-DD
 </ul>
 
 <figure>
-<a href="https://tumblbug.com/graphicrecording" target="_blank"><img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/tumblbug.png" alter=""></a>
+<a href="https://tumblbug.com/graphicrecording" target="_blank"><img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/tumblbug.png" alter=""></a>
 <figcaption>
 </figcaption>
 </figure>
@@ -48,7 +48,7 @@ last_modified_at: # YYYY-MM-DD
 준비 중인 책은 **그래픽 레코딩**(Graphic Recording) 입문서입니다. 그래픽 레코딩이 뭔지 몰라도 어디선가 이런 그림을 본 적이 있을 거에요.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/1.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/1.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -56,7 +56,7 @@ last_modified_at: # YYYY-MM-DD
 아이디어를 스케치하거나
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/2.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/2.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -64,7 +64,7 @@ last_modified_at: # YYYY-MM-DD
 자신의 이야기를 그림으로 표현하기도 하고
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/3.png" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/3.png" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -74,7 +74,7 @@ last_modified_at: # YYYY-MM-DD
 심지어 프로젝트를 소개하는 홍보 자료로 활용되기도 합니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/4.gif" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/4.gif" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -84,7 +84,7 @@ last_modified_at: # YYYY-MM-DD
 '쉽게 말로 하지 왜 힘들게 그림을 그려?'라고 생각할 수 있는데요. 그래픽 레코딩을 하는 이유는 **말보다 그림으로 표현하는 게 더 나을 때가 있기 때문**입니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/5.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/5.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -92,13 +92,13 @@ last_modified_at: # YYYY-MM-DD
 이 책은 **비주얼 씽킹**으로 시작해서 **스케치 노트, 아이디어 스케치, 그래픽 레코딩, 그래픽 퍼실리테이션**을 하기 위한 기본기를 다루고 있습니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/6.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/6.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/7.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/7.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -107,7 +107,7 @@ last_modified_at: # YYYY-MM-DD
 종이에 그리는 **아날로그 방식**을 먼저 설명하고, 태블릿에 그리는 **디지털 방식**도 소개합니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/8.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/8.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -126,7 +126,7 @@ last_modified_at: # YYYY-MM-DD
 </ul>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/9.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/9.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -156,7 +156,7 @@ Graphic recording is the real-time translation of conversations or presentations
 심지어 이 책은 그림책이지만 **그림을 못 그려도 괜찮습니다.** 쉽고 빠르게 그림을 완성하는 방법을 알려주거든요. 그걸 배워서 어디에 쓰냐고요? 학교나 직장에서 이럴 때 쓸 수 있습니다. 
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/10.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/10.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -167,7 +167,7 @@ Graphic recording is the real-time translation of conversations or presentations
 * 회의 중에 서로의 생각이 맞지 않을 때
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/11.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/11.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -180,7 +180,7 @@ Graphic recording is the real-time translation of conversations or presentations
 * 아이패드를 샀는데 제대로 활용하고 있지 않은 분 
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/12.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/12.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -247,43 +247,43 @@ Graphic recording is the real-time translation of conversations or presentations
 아래는 샘플 페이지와 목업 이미지입니다. 최종 완성 결과는 달라질 수 있습니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/13.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/13.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/14.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/14.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/15.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/15.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/16.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/16.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/17.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/17.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/18.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/18.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/19.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/19.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -292,7 +292,7 @@ Graphic recording is the real-time translation of conversations or presentations
 그림에 소질이 없어도 괜찮습니다. 우리가 그리는 건 심오한 **예술 작품**이 아니거든요. 정보를 정리하고, 공유하며, 원활한 소통이 되게 하는 **기록물**을 그리는 거에요.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/20.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/20.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -300,19 +300,19 @@ Graphic recording is the real-time translation of conversations or presentations
 이 책은 내가 **보고 들은 내용을 신속하고 효율 있게 기록하도록 도와주는 책**이에요. 몇 가지 요령을 살펴볼까요?
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/21.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/21.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/22.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/22.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/23.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/23.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -320,7 +320,7 @@ Graphic recording is the real-time translation of conversations or presentations
 생각한 것보다 어렵지 않죠?
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/24.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/24.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -332,7 +332,7 @@ Graphic recording is the real-time translation of conversations or presentations
 원서에는 그래픽 레코딩 여러 작품을 한 페이지에 넣다 보니 작게 보이는데요. 번역서에는 좀 더 편하게 볼 수 있게 이미지를 확대합니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/25.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/25.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -341,7 +341,7 @@ Graphic recording is the real-time translation of conversations or presentations
 번역서에는 한국 독자를 위해 **한국 작가님과 작품을 소개**하는 페이지를 추가할 예정입니다. 다섯 분의 한국 작가님 작품을 부록으로 소개할게요. 아래는 이은현 작가님의 소개 페이지입니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/26.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/26.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -352,7 +352,7 @@ Graphic recording is the real-time translation of conversations or presentations
 그 밖에도 일반인의 실습 결과 등 굳이 번역하지 않아도 될 부분까지 가능한한 번역 동의를 구하여 화면을 확대하며 꼼꼼하게 현지화합니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/27.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/27.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -366,7 +366,7 @@ Graphic recording is the real-time translation of conversations or presentations
 * **A 세트 기본팩**: 책 + 워크북
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/28.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/28.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -374,7 +374,7 @@ Graphic recording is the real-time translation of conversations or presentations
 * **B 세트 기본팩**: A 세트 기본팩 + 마카 3색 세트 
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/29.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/29.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -393,7 +393,7 @@ Graphic recording is the real-time translation of conversations or presentations
 * **얼리버드 B 세트 스터디팩**: B 세트 스터디팩 + 랜덤 굿즈 
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/30.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/30.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -406,19 +406,19 @@ Graphic recording is the real-time translation of conversations or presentations
 **워크북은 펜으로 직접 따라 그릴 수 있는 연습장**입니다. **텀블벅 한정**으로 무료 제공합니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/31.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/31.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/32.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/32.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/33.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/33.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -428,7 +428,7 @@ Graphic recording is the real-time translation of conversations or presentations
 랜덤 굿즈는 준비한 품목 중에서 무작위로 선택하여 보낼 예정입니다. 아래 사진은 **정진호 작가님의 수채화 엽서**입니다. 그 밖에 어떤 랜덤 굿즈가 있는지는 준비가 되는대로 하나 씩 공개하겠습니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/34.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/34.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -436,7 +436,7 @@ Graphic recording is the real-time translation of conversations or presentations
 다른 랜덤 굿즈 후보로는 태블릿으로 그림을 그릴 때 액정에 땀이 묻지 않게 하는 **드로잉 글로브**를 검토하고 있습니다. (태블릿 미포함)
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/35.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/35.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -454,7 +454,7 @@ Graphic recording is the real-time translation of conversations or presentations
 마커는 국내 그래픽 레코더가 애용하는 제품으로 **신한 터치 트윈 마카**를 골랐습니다. 오프라인 소매가 3,500원, 온라인 최저가 2,300원 + 배송료 2,500원 안팎인 제품으로 일반 시중에서 세트 B와 비슷한 가격에 직접 구매할 수도 있습니다.
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/36.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/36.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -520,7 +520,7 @@ Graphic recording is the real-time translation of conversations or presentations
 </ul>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/37.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/37.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -539,7 +539,7 @@ Graphic recording is the real-time translation of conversations or presentations
 편의점 택배로 발송 예정입니다. 최저 택배비가 2,600원인데 더 좋은 조건으로 배송할 수 있는 경우, 남는 배송비를 반품 재배송을 위한 예비비로 활용하겠습니다. 
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/38.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/38.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -556,7 +556,7 @@ Graphic recording is the real-time translation of conversations or presentations
 </div>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/39.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/39.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -573,7 +573,7 @@ Graphic recording is the real-time translation of conversations or presentations
 * 다음 책도 세상에 빛을 볼 수 있도록 많은 후원 부탁드립니다!
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/40.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/40.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>
@@ -607,7 +607,7 @@ IT 회사에 다니면서 IT 관련서를 번역하고 있습니다. 그간 번�
 </ul>
 
 <figure>
-<img class="middle" src="{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/41.jpg" alter="">
+<img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording-crowd-funding/41.jpg" alter="">
 <figcaption>
 </figcaption>
 </figure>

@@ -69,5 +69,5 @@ product: false
 </ul>
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
 </figure>

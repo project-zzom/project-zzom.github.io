@@ -58,7 +58,7 @@ product: false
     <div class="col ml-auto">
     <figure>
     <a href="https://zzom.io/character-illustration-with-procreate/" target="_blank">
-    <img class="rounded" src="{{ site.baseurl }}/assets/images/products/deep-blizzard-procreate/book-support-page.png" alter="">
+    <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/products/deep-blizzard-procreate/book-support-page.png" alter="">
     </a>
     <figcaption>도서 지원 페이지</figcaption>
     </figure>
@@ -74,5 +74,5 @@ product: false
 부디 갖은 시행착오 끝에 만든 책인 만큼 후원자님과 독자님께 아주 조금이라도 도움이 되면 좋겠습니다!
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
 </figure>

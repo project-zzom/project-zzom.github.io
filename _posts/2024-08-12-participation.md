@@ -55,7 +55,7 @@ product: false
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="large rounded" src="{{ site.baseurl }}/assets/images/participation-program/participation-book.jpg" alter="">
+        <img class="large rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/participation-program/participation-book.jpg" alter="">
         <figcaption>독자 인증 예시</figcaption>
         </figure>
         </div>
@@ -77,7 +77,7 @@ product: false
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="large rounded" src="{{ site.baseurl }}/assets/images/participation-program/participation-online-reivewe.png" alter="">
+        <img class="large rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/participation-program/participation-online-reivewe.png" alter="">
         <figcaption>서평 인증 예시</figcaption>
         </figure>
         </div>
@@ -99,7 +99,7 @@ product: false
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="large rounded" src="{{ site.baseurl }}/assets/images/participation-program/participation-card.jpg" alter="">
+        <img class="large rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/participation-program/participation-card.jpg" alter="">
         <figcaption>실습 인증 예시</figcaption>
         </figure>
         </div>
@@ -136,18 +136,18 @@ product: false
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="large rounded" src="{{ site.baseurl }}/assets/images/participation-program/participation-expert.png" alter="">
+        <img class="large rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/participation-program/participation-expert.png" alter="">
         <figcaption>한국 전문가 소개 예시</figcaption>
         </figure>
         </div>
         <div class="col ml-auto">
         <figure>
-        <img class="large rounded" src="{{ site.baseurl }}/assets/images/participation-program/participation-review.png" alter="">
+        <img class="large rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/participation-program/participation-review.png" alter="">
         <figcaption>베타 리더 후기 예시</figcaption>
         </figure>
         </div>
         <div class="col ml-auto">
-        <img class="large rounded" src="{{ site.baseurl }}/assets/images/participation-program/participation-crowdfunding.png" alter="">
+        <img class="large rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/participation-program/participation-crowdfunding.png" alter="">
         <figure>
         <figcaption>크라우드 펀딩 예시</figcaption>
         </figure>
@@ -169,7 +169,7 @@ product: false
     <div class="col ml-auto">
     <figure>
     <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-sms.png" target="_blank">
-    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-sms.png" alter="">
+    <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-sms.png" alter="">
     </a>
     <figcaption>SMS 메시지</figcaption>
     </figure>
@@ -187,7 +187,7 @@ product: false
     <div class="col ml-auto">
     <figure>
     <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-1.png" target="_blank">
-    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-1.png" alter="">
+    <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-1.png" alter="">
     </a>
     <figcaption>PC 네이버톡 알림</figcaption>
     </figure>
@@ -198,7 +198,7 @@ product: false
     <div class="col ml-auto">
     <figure>
     <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-2.png" target="_blank">
-    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-2.png" alter="">
+    <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-2.png" alter="">
     </a>
     <figcaption>PC 네이버톡 메시지</figcaption>
     </figure>
@@ -214,7 +214,7 @@ product: false
     <div class="col ml-auto">
     <figure>
     <a href="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-myfigt.png" target="_blank">
-    <img class="rounded" src="{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-mygift.png" alter="">
+    <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/naver-pay/naverpay-receive-pc-mygift.png" alter="">
     </a>
     <figcaption>PC 네이버페이 선물함</figcaption>
     </figure>

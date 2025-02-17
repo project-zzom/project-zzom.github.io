@@ -36,7 +36,7 @@ last_modified_at: # YYYY-MM-DD
 아니 이 사람들 이렇게 재미난 책을 보고 있었다니
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/management-for-happiness.jpg" alter="book">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/management-for-happiness.jpg" alter="book">
 <figcaption>
 </figcaption>
 </figure>
@@ -48,7 +48,7 @@ last_modified_at: # YYYY-MM-DD
 이 책 후반부에 'moving motivator'란 기법을 설명하고 있는데 사람을 움직이는 동기 요인을 10가지로 정리를 한 후, 사람마다 어떤 동기 요인에 움직이는지 확인한 뒤, 그들이 몰입할 수 있게 도와줘라는... 대충 그런 내용이었던 것 같다.
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/motivator.jpg" alter="description">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/motivator.jpg" alter="description">
 <figcaption>
 </figcaption>
 </figure>
@@ -72,7 +72,7 @@ last_modified_at: # YYYY-MM-DD
 * 내가 왜 그랬을까 <del>반성</del> 회고한다
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-card2.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-card2.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>
@@ -85,7 +85,7 @@ last_modified_at: # YYYY-MM-DD
 그때 나는 왜 그렇게 열심히 코피 흘리면서 일했던 걸까? 되돌아보니 대충 이러하다.
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-architect.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-architect.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>
@@ -97,7 +97,7 @@ last_modified_at: # YYYY-MM-DD
 어떤 조건에서 어떤 포메이션을 쓰고, 어떤 상황에서 해당 후보로 대체해야 하는지, 실제로 해당 아키텍처가 실전에서 가동될 정도로 안전한지를 실행 가능한 형태로 구축하고 사전 테스트하는 일도 포함되어 있었는데, 그 과정에서 선행 개발한 내용을 정제하면 개발 생산성을 올릴 수 있는 재사용 모됼과 개발 표준을 만들 수 있었다. 
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-architect-1.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-architect-1.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>
@@ -111,7 +111,7 @@ last_modified_at: # YYYY-MM-DD
 자연스럽게 관련 분야에 '전문성'이 생기고 그걸 유지하기 위한 노력도 적잖이 했던 것 같다. 내가 애써서 검증한 내용이 실전에 쓰일 때의 '힘' 즉 영향력도 좋은 기분을 느끼게 하는데 충분했었고...
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-architect-2.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-architect-2.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>
@@ -121,19 +121,19 @@ last_modified_at: # YYYY-MM-DD
 ## 출판사를 만든 후 (번역가 / 출판인)
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-publisher.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-publisher.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-publisher-1.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-publisher-1.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>
 
 <figure>
-<img  src="{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-publisher-2.jpg" alter="card">
+<img  src="{{ site.url }}{{ site.baseurl }}/assets/images/moving-motivator/moving-motivator-publisher-2.jpg" alter="card">
 <figcaption>
 </figcaption>
 </figure>

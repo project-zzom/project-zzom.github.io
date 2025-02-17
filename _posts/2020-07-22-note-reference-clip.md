@@ -202,11 +202,11 @@ CULTIBASE Radio는 조직의 혁신을 주제로 한 웹 미디어 <a href="http
 
     <figure>
     <a href="https://tum.bg/tgLB7f" target="_blank">
-    <img class="large" src="{{ site.baseurl }}/assets/images/graphic-recording/main-image.png" alter=""></a>
+    <img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/graphic-recording/main-image.png" alter=""></a>
     </figure>    
 
     <figure>
     <a href="https://tum.bg/tgLB7f" target="_blank">
-    <img class="large" src="{{ site.baseurl }}/assets/images/note-reference-clip/201.png" alter=""></a>
+    <img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/note-reference-clip/201.png" alter=""></a>
     </figure>
 </div>

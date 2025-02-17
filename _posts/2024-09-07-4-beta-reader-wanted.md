@@ -36,13 +36,13 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ja.png" alter="book cover ja">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ja.png" alter="book cover ja">
         <figcaption>원서 표지</figcaption>
         </figure>
         </div>
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ko.png" alter="book cover ko">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/deep-blizzard-procreate/cover-procreate-ko.png" alter="book cover ko">
         <figcaption>번역서 표지(확정 전)</figcaption>
         </figure>
         </div>
@@ -70,7 +70,7 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" alter="present">
 </a>
 </figure>
 
@@ -122,19 +122,19 @@ ZZOM에서는 2024년 하반기에 출간될 '캐릭터 일러스트 강좌 with
     <div class="row">
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-hand-wormer.jpg" alter="present">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/present/present-hand-wormer.jpg" alter="present">
         <figcaption>핸드 워머</figcaption>
         </figure>
         </div>
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-tea-cup.jpg" alter="present">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/present/present-tea-cup.jpg" alter="present">
         <figcaption>캐릭터 찻잔</figcaption>
         </figure>
         </div>
         <div class="col ml-auto">
         <figure>
-        <img class="rounded" src="{{ site.baseurl }}/assets/images/beta-reading/present/present-cookie.jpg" alter="present">
+        <img class="rounded" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/present/present-cookie.jpg" alter="present">
         <figcaption>수제 쿠키</figcaption>
         </figure>
         </div>
@@ -162,7 +162,7 @@ ZZOM에서는 출간 전에 홍보 목적으로 '추천사'를 부탁드리지 �
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/recommanded-word-vs-beta-reader-reviw.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/recommanded-word-vs-beta-reader-reviw.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/recommanded-word-vs-beta-reader-reviw.png" alter="present">
 </a>
 </figure>
 
@@ -172,5 +172,5 @@ ZZOM에서는 출간 전에 홍보 목적으로 '추천사'를 부탁드리지 �
 도움 주시는 후원자님, 기존 독자님, 잠재 독자님 모두 감사합니다!
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
 </figure>

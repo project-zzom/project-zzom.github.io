@@ -33,11 +33,11 @@ GitHub을 비롯한 각종 형상 관리 툴은 이슈가 곧 소스 코드의 �
 
 아래는 커스텀을 따로 하지 않은 디스커션 화면이다. 
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/discussions.png" alter="discussions">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/discussions.png" alter="discussions">
 
 대충 살펴보면 일반적인 내용과 새 기능에 대한 아이디어, 다른 이의 도움이 필요한 질문, 내가 만든 기능의 자랑질(?)을 포스팅하는 카테고리가 있다. 물론 카테고리는 커스텀 할 수 있는데 커스텀 방법도 어렵지 않다. 우선 제일 만만한 Q&A 카테고리를 'Edit' 해서 어떤 부분을 손댈 수 있는지 살펴보자.  
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-000.png" alter="custom-000">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-000.png" alter="custom-000">
 
 일단 제목<sub>(title)</sub>과 설명<sub>(description)</sub>을 한국어로 현지화 할 수 있고 토론(?) 형식을 일반적인 게시판 형태로 할지, 문답 게시판 형태로 할지 정할 수 있다. 어디까지 다리를 뻗을지 확인했다면 이제 집도를 시작하자. 
 
@@ -45,29 +45,29 @@ GitHub을 비롯한 각종 형상 관리 툴은 이슈가 곧 소스 코드의 �
 
 GitHub은 기본적으로 한국어를 지원하지 않기 때문에 처음 보는 이에겐 이게 어디에 쓰는 물건인지 당황하게 만들 수 있다. 모든 부분이 영어일 때 일부가 한국어라면 자연스럽게 거기에 시선이 가기 마련. 더도 말도 덜도 말고 딱 3개의 카테고리로 정리해봤다. 
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-001.png" alter="custom-001">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-001.png" alter="custom-001">
 
 문의, 제보, 제안 정도면 어디에 뭘 써야 할 지 헛갈리지 않을 거란 계산인데 사실 엉뚱한 곳에 썼다고 하더라도 정보를 수집하는 쪽에서 내용만 이해할 수 있으면 큰 문제가 될 건 없다. 
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-002.png" alter="custom-002">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-002.png" alter="custom-002">
 
 일단 문답형 기능을 테스트해봤다. 그냥 입력도 가능하지만, 이전 내용을 인용하며 코멘트를 달 수도 있다. 
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-003.png" alter="custom-003">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-003.png" alter="custom-003">
 
 Issues 기능과는 달리 기본 입력되는 템플릿이 없다 보니 입력은 자유롭다. 형식을 버리는 대신 참여도를 높일 수 있겠다. 워낙에 자유로운 입력 방식이라 이 정보를 작업 근거로 이용할 수 있을까 걱정될 수도 있겠다. 다행히 GitHub은 디스커션 내용을 이슈로 연결하는 기능을 제공한다.
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-004.png" alter="custom-004">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-004.png" alter="custom-004">
 
 결국 독자가 자유롭게 의견을 주거나 질문한 내용을 검토한 후, 파일 변경이 필요하다고 판단되면 그걸 이슈와 연결하면 된다. 정보 제공은 자유롭게, 작업 근거는 투명하게, 두 마리 토끼를 잡은 셈이다.
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-005.png" alter="custom-005">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-005.png" alter="custom-005">
 
 일단 이슈로 전환되면 통상적인 이슈 트래킹 기능을 활용할 수 있다. 작업 유형을 정하거나 작업자를 할당할 수 있고, 완료 여부 같은 상태 지정도 가능하다.
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-006.png" alter="custom-006">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-006.png" alter="custom-006">
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/custom-007.png" alter="custom-007">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/custom-007.png" alter="custom-007">
 
 결국 독자의 오탈자 제보나 질의응답, 개선 요청에 대해 원고의 내용을 변경해야 할 때, 근거가 되는 이슈도 살릴 수 있고, 이슈 트래킹 기능에 익숙지 않은 독자에게는 일반 게시판과 같은 디스커션 기능을 활용할 수 있게 되었다. 
 
@@ -77,15 +77,15 @@ Issues 기능과는 달리 기본 입력되는 템플릿이 없다 보니 입력
 <blockquote>'아라, 게시판은 보이는데 글을 쓸 수 없는데?'</blockquote>
 그렇다. 'New' 버튼이 활성화되어 있지 않다.
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/discussions-new.png" alter="discussions new">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/discussions-new.png" alter="discussions new">
 
 그렇다. 이 기능은 GitHub 계정이 있어야 쓸 수 있다. 어라? 그럼 이슈 기능은? 하며 확인을 해보니 이러하다.
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-issue-templates/issues-new.png" alter="issues new">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-issue-templates/issues-new.png" alter="issues new">
 
 어라? 이건 'New' 버튼이 활성화되어 있는데? 하고 눌러보면... 
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-issue-templates/issues-login.png" alter="issues login">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-issue-templates/issues-login.png" alter="issues login">
 
 아... 그럼 그렇지. ㅜㅜ 자 이쯤 되면 GitHub에 뭐라도 쓰고 싶으면 GitHub 계정이 필요하다는 아주 당연한 사실을 새삼스레 깨닫게 되며, 난 왜 이게 된다고 생각했지? 하며 자괴감에 빠지게 된다.
 
@@ -95,7 +95,7 @@ Issues 기능과는 달리 기본 입력되는 템플릿이 없다 보니 입력
 
 그래서 결국은 다음과 같은 형태로 운영할 예정이다.
 
-<img class="shadow" src="{{ site.baseurl }}/assets/images/github-discussions/supports.png" alter="custom-003">
+<img class="shadow" src="{{ site.url }}{{ site.baseurl }}/assets/images/github-discussions/supports.png" alter="custom-003">
 
 <blockquote>뭐야, 이 혼종은?</blockquote>
 

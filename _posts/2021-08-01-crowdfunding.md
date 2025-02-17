@@ -25,7 +25,7 @@ ZZOM의 첫 책 <a href="https://tumblbug.com/graphicrecording/" target="_blank"
 </p>
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/tumblgub-260-777-graph.png" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/tumblgub-260-777-graph.png" alter="">
 </figure>
 
 <ul>
@@ -60,7 +60,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 ## 크라우드펀딩은 쇼핑과 다르다
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/books-1842261_1920.jpg" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/books-1842261_1920.jpg" alter="">
 </figure>
 
 크라우드펀딩은 쇼핑보다 매력적이다.
@@ -105,7 +105,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 6. 기타 이벤트성 증정품
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/super-heroes-1419154_1920.jpg" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/super-heroes-1419154_1920.jpg" alter="">
 </figure>
 
 강력하다. 너무 강력하다. 여기서 1번과 2번은 도서 정가제의 제약 범위에 들어간다.
@@ -143,7 +143,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 크라우드펀딩을 할지, 일반 서점에서 구매할지는 독자의 몫이다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/stormtrooper-1343772_1920.jpg" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/stormtrooper-1343772_1920.jpg" alter="">
 </figure>
 
 ## 지켜야 하는 건 도서 정가제
@@ -191,7 +191,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/physicist-4276720_1920.jpg" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/physicist-4276720_1920.jpg" alter="">
 </figure>
 
 ## 가치를 어떻게 줄 것인가
@@ -204,7 +204,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 그래픽 레코딩은 보통 큰 모조지에 마카로 그린다. 마카는 일반 필기구와 달라서 일반 가정에는 잘 없고, 미술용품을 취급하는 문구점에 가야 살 수 있다. 개당 가격도 제법 비싼 편이다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/055-1.png" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/055-1.png" alter="">
 </figure>
 
 책을 읽어보니 당장 그리고 싶은데 마카가 없다면? 온라인에서 주문하는데 배송료가 부담된다면? 문구점에 다녀오는 동안 열정이 식는다면? 그래서 책이 제 기능을 다 하지 못한다면? 그런 질문에서 답을 하나 찾았다. 의욕이 있을 때 바로 그릴 수 있어야 한다. 그래, 책과 함께 마카를 보내는 거야! 그런 결론에 이르렀다. 
@@ -216,7 +216,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 이렇게 만들어진 게 '[얼리버드] B 세트 기본팩', 'B 세트 기본팩', 'B 세트 스터디팩'이다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/reward-btype.png" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/reward-btype.png" alter="">
 </figure>
 
 단, 마카의 도매가격이 인상되거나, 불량으로 반품이 생기면 7,000원의 추가금이 부족할 수 있다. 이 리스크는 창작자가 부담한다. 왜냐하면 후원자는 실물조차 보지 못한 상태에서 더 큰 위험을 감내하고 있기 때문이다. 사실 추가 구성품을 대량 구매하고 책과 함께 동봉하는 건 굳이 최저 시급 9,160원을 언급하지 않더라도 무척이나 귀찮고 번거로운 일이다. 하지만 후원자가 책을 보고 바로 그리는 즐거움을 만끽할 수 있다면 그 정도 수고는 아무것도 아니다. 시간의 관점에서 보자면 나의 시간과 품삯이 독자의 즐거움으로 변환되는 셈이다.
@@ -230,7 +230,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 아날로그로 그리는 사람도, 디지털로 그리는 사람도 언제나 가볍게 연습하면 좋겠다고 생각했다. 그래서 초등학생도 따라 할 수 있는 실습용 워크북을 준비했다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/graphic-recording workbook 2.png" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/graphic-recording workbook 2.png" alter="">
 </figure>
 
 워크북의 내용은 책의 부록에 나오는 내용으로 'Appendix A 비주얼 라이브러리'에 있는 그림을 별책 부록으로 따로 구성했다.
@@ -240,7 +240,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 워크북은 흑백 1도 인쇄에 중철 제본, 40페이지 분량이다. 통상 A5 학생 노트 40매가 온라인 최저가 860원 안팎인데 이건 다시 펼쳐보지 않는 일회성 연습장이다. 그래서 가능한 범위에서 제작 사양을 낮췄다. 제작비의 부담은 있지만, 애당초 이번 프로젝트가 수익을 목적으로 하는 건 아닌지라 독자가 책의 활용도를 높일 수 있는 쪽에 가치를 두기로 했다. 
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/child-865116_1920.jpg" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/child-865116_1920.jpg" alter="">
 </figure>
 
 사실 후원자에게 자녀가 있다면 자녀와 함께 책을 보며 워크북을 그리면 좋겠다고 생각했다. 부모와 아이가 함께 그리는 계기가 된다면 머릿속의 생각을 전달한다는 이 책의 취지도 잘 살리는 셈이렷다. 어쩌면 아이가 더 잘 그릴 거란 생각을 하니 워크북을 준비하는 과정도 힘들지 않았다.
@@ -251,7 +251,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 아날로그 방식이 아니라 디지털 방식으로 그릴 사람도 있기 때문이다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/175-2.png" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/175-2.png" alter="">
 </figure>
 
 아이패드나 갤럭시 탭, 그 밖의 태블릿으로 그릴 사람은 마카가 필요없다. 어쩌면 워크북도 파일을 다운받아 이미지를 import해서 그릴지도 모른다. 디지털 드로잉을 할 사람은 보통 '[얼리버드] A 세트 기본팩', 'A 세트 기본팩', 'A 세트 스터디팩'을 고르게 된다. 
@@ -265,7 +265,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 어쩌면 흔할 수 있는, 제3자가 보았을 때는 아무런 감흥도 없는 이름의 나열일 수 있겠지만, 작품이 끝난 뒤에도 마지막 여운을 느낄 수 있도록 영화 엔드 크레딧처럼 이름을 남기기로 했다. 후원자의 이름은 전체 248페이지 중 2페이지에 걸쳐 등재된다. 책 내용 중 124분의 1에 후원자의 공간을 마련한 셈이다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/credits.png" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/credits.png" alter="">
 </figure>
 
 사실 1인 출판 프로젝트로 직접 책을 찍어야 겠다고 결심한 데는 영화 같은 엔드 크레딧을 넣고 싶다는 생각이 컸다. 
@@ -289,7 +289,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 일반 서점이 가격면에서 유리하다면 크라우드펀딩은 돈으로 환산하기 어려운 시간과 가치로 차별화하면 된다. 그 시간과 가치가 모든 사람에게 만족스럽진 않겠지만 리스크를 감내한 후원자를 위해 할 수 있는 데까진 해보는 게 창작자로서의 최소한의 도리다.
 
 <figure>
-<img class="large" src="{{ site.baseurl }}/assets/images/crowdfunding/writing-828911_1920.jpg" alter="">
+<img class="large" src="{{ site.url }}{{ site.baseurl }}/assets/images/crowdfunding/writing-828911_1920.jpg" alter="">
 </figure>
 
 처음엔 가볍게 생각했던 1인 출판 프로젝트지만 펀딩 목표 260%를 달성하고 보니 더 진지하게 임해야 겠다는 각오를 해본다.
@@ -301,7 +301,7 @@ ZZOM 뉴스레터: <a href="https://page.stibee.com/subscriptions/112756?groupId
 1인 출판 프로젝트 ZZOM
 
 <figure>
-<a href="https://page.stibee.com/subscriptions/112756?groupIds=10738" target="_blank"><img class="middle" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter=""></a>
+<a href="https://page.stibee.com/subscriptions/112756?groupIds=10738" target="_blank"><img class="middle" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter=""></a>
 <figcaption>
 </figcaption>
 </figure>

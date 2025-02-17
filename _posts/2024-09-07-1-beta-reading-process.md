@@ -49,7 +49,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" alter="present">
 </a>
 </figure>
 
@@ -62,7 +62,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-review-flow.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-review-flow.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-review-flow.png" alter="present">
 </a>
 </figure>
 
@@ -77,7 +77,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/001.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/001.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/001.png" alter="present">
 </a>
 <figcaption class="left">베타 리더는 이메일로 공유 사실을 확인할 수 있습니다. 아래 이미지는 예시입니다. 업데이트가 될 때마다 버전이 올라갑니다.</figcaption>
 </figure>
@@ -85,7 +85,7 @@ product: false
 <figure>
 
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/002.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/002.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/002.png" alter="present">
 </a>
 <figcaption class="left">메일 본문의 링크를 따라갑니다.</figcaption>
 </figure>
@@ -93,7 +93,7 @@ product: false
 <figure>
 
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/003.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/003.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/003.png" alter="present">
 </a>
 <figcaption class="left">온라인에서 PDF 파일을 확인할 수 있습니다. Adobe 계정이 있다면 로그인합니다. 없으면 나중에 만들거나 게스트로 참여해도 됩니다.</figcaption>
 </figure>
@@ -101,7 +101,7 @@ product: false
 <figure>
 
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/004.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/004.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/004.png" alter="present">
 </a>
 <figcaption class="left">왼쪽 패널을 닫으면 화면을 넓게 쓸 수 있습니다.</figcaption>
 </figure>
@@ -109,7 +109,7 @@ product: false
 <figure>
 
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/005.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/005.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/005.png" alter="present">
 </a>
 <figcaption class="left">본문 특정 내용과 상관없이 코멘트를 넣을 수 있습니다.
 이모티콘을 넣거나 @으로 동료를 소환할 수 있습니다.</figcaption>
@@ -118,7 +118,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/006.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/006.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/006.png" alter="present">
 </a>
 <figcaption class="left">코멘트 작성자를 식별하기 위해 Adobe 계정으로 로그인합니다. Adobe 계정은 무료로 생성할 수 있습니다.</figcaption>
 </figure>
@@ -126,7 +126,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/007.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/007.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/007.png" alter="present">
 </a>
 <figcaption class="left">게스트로 참여할 수 있으나 베타 리더 식별이 어려우므로 가능하면 무료 계정을 만들기를 권합니다.</figcaption>
 </figure>
@@ -134,7 +134,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/008.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/008.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/008.png" alter="present">
 </a>
 <figcaption class="left">코멘트를 달기 위해 Adobe 계정으로 로그인합니다.</figcaption>
 </figure>
@@ -142,7 +142,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/009.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/009.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/009.png" alter="present">
 </a>
 <figcaption class="left">로그인 후에 PDF 파일을 다시 확인합니다.</figcaption>
 </figure>
@@ -150,7 +150,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/010.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/010.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/010.png" alter="present">
 </a>
 <figcaption class="left">영문 메뉴가 부담된다면 설정에서 화면 표시 언어를 바꿀 수 있습니다.</figcaption>
 </figure>
@@ -158,7 +158,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/011.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/011.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/011.png" alter="present">
 </a>
 <figcaption class="left">한국어로 바뀐 화면입니다.</figcaption>
 </figure>
@@ -166,13 +166,13 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/012.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/012.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/012.png" alter="present">
 </a>
 <figcaption class="left">시험삼아 코멘트를 해봅시다. @를 입력하면 번역자와 다른 베타 리더를 소환할 수 있습니다.</figcaption>
 </figure>
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/013.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/013.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/013.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
@@ -180,7 +180,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/014.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/014.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/014.png" alter="present">
 </a>
 <figcaption class="left">책을 읽다가 피드백 주고 싶은 부분을 마우스로 선택하고 우측 클릭으로 메뉴를 표시합니다. '코멘트 추가'를 시험해 봅시다.</figcaption>
 </figure>
@@ -188,7 +188,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/015.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/015.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/015.png" alter="present">
 </a>
 <figcaption class="left">코멘트 입력 창에 피드백할 내용을 입력합니다.</figcaption>
 </figure>
@@ -196,7 +196,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/016.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/016.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/016.png" alter="present">
 </a>
 <figcaption class="left">피드백 내용이 잘 반영되었습니다.
 다음은 '선택된 텍스트 강조 표시'를 시험해 봅시다.</figcaption>
@@ -205,7 +205,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/017.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/017.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/017.png" alter="present">
 </a>
 <figcaption class="left">코멘트도 입력할 수 있어서 '코멘트 추가'와 크게 다르진 않습니다.</figcaption>
 </figure>
@@ -213,7 +213,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/018.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/018.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/018.png" alter="present">
 </a>
 <figcaption class="left">이번엔 '선택한 텍스트에 밑줄 긋기'를 시험해 봅시다.</figcaption>
 </figure>
@@ -221,7 +221,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/019.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/019.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/019.png" alter="present">
 </a>
 <figcaption class="left">밑줄이 그어졌습니다. 역시 코멘트도 입력할 수 있습니다.</figcaption>
 </figure>
@@ -229,7 +229,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/020.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/020.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/020.png" alter="present">
 </a>
 <figcaption class="left">이번엔 '선택한 텍스트에 취소선 표시'를 시험해 봅시다.</figcaption>
 </figure>
@@ -237,7 +237,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/021.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/021.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/021.png" alter="present">
 </a>
 <figcaption class="left">오탈자가 있거나 잘못된 표현 등이 보이면 취소선을 긋고 맞다고 생각되는 표현을 코멘트로 입력해주세요.</figcaption>
 </figure>
@@ -245,7 +245,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/022.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/022.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/022.png" alter="present">
 </a>
 <figcaption class="left">강조나 밑줄, 코멘트로 전달하기 힘든 내용은 지면에 빨간펜으로 직접 쓸 수 있습니다.
 왼쪽 패널 툴 바에서 '자유형 그리기'를 선택합니다.</figcaption>
@@ -254,7 +254,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/023.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/023.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/023.png" alter="present">
 </a>
 <figcaption class="left">왼쪽 패널 아래에서 펜 색깔을 고릅니다.</figcaption>
 </figure>
@@ -262,13 +262,13 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/024.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/024.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/024.png" alter="present">
 </a>
 <figcaption class="left">피드백하고 싶은 부분에 동그라미를 그리거나 화면에 직접 글을 써도 됩니다. 물론 코멘트 입력 창도 쓸 수 있습니다.</figcaption>
 </figure>
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/025.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/025.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/025.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
@@ -276,7 +276,7 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/026.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/026.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/026.png" alter="present">
 </a>
 <figcaption class="left">피드백 방법은 뭘 써도 상관없습니다. 피드백을 가장 효과적으로 전달할 수 있는 방법을 활용해주세요.</figcaption>
 </figure>
@@ -284,56 +284,56 @@ product: false
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/027.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/027.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/027.png" alter="present">
 </a>
 <figcaption class="left">다음 파일도 마찬가지 방법으로 진행합니다.</figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/028.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/028.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/028.png" alter="present">
 </a>
 <figcaption class="left">독자의 입장에서 책을 읽다가 자연스럽지 않은 부분을 피드백 주세요.</figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/029.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/029.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/029.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/030.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/030.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/030.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/031.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/031.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/031.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/032.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/032.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/032.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/033.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/033.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/033.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/034.png" target="_blank">
-<img class="rounded border" src="{{ site.baseurl }}/assets/images/beta-reading/process/034.png" alter="present">
+<img class="rounded border" src="{{ site.url }}{{ site.baseurl }}/assets/images/beta-reading/process/034.png" alter="present">
 </a>
 <figcaption class="left"></figcaption>
 </figure>
@@ -347,5 +347,5 @@ product: false
 * 이메일: project.zzom@gmail.com
 
 <figure>
-<img class="medium" src="{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
+<img class="medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/zzom-banner.jpg" alter="present">
 </figure>
