@@ -30,7 +30,7 @@ product: true
     <b>판매처 정보</b>
     해당 구성은 크라우드펀딩 한정으로 현재는 도서만 판매 중입니다.
     <ul>
-        <li><a href="http://smartstore.zzom.io/products/6237850646" target="_blank">네이버 스마트스토어</a> </li>
+        <li><a href="http://smartstore.naver.com/zzom/products/6237850646" target="_blank">네이버 스마트스토어</a> </li>
     </ul>
 
 </div>

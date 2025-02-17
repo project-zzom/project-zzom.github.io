@@ -39,7 +39,7 @@ comments: false
             <li>저작권 에이전시를 통해서 판권을 확보합니다.</li>
             <li><a href="https://tumblbug.com/u/zzom/created" target="_blank">크라우드펀딩</a>으로 제작비를 확보합니다.</li>
             <li>제작된 결과물에 약간의 혜택을 더하여 후원자에게 리워드 합니다.</li>
-            <li>여유분은 최소 2주 후에 <a href="http://smartstore.zzom.io/" target="_blank">스마트스토어</a>와 일반 서점에서 판매합니다.</li>
+            <li>여유분은 최소 2주 후에 <a href="http://smartstore.naver.com/" target="_blank">스마트스토어</a>와 일반 서점에서 판매합니다.</li>
             <li>제작비가 회수되고 수익이 발생하면 위 과정을 반복하며 선순환합니다.</li>
         </ol>
 
