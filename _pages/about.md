@@ -95,6 +95,7 @@ comments: false
         <ul>
             <li><a href="https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=10797&menuNo=200061&sdate=&edate=&srchCnd=3&srchWrd=%EB%B9%84%EC%83%81%EC%A3%BC&pageIndex=2" target="_blank">2023년 남부권역센터 비상주 오피스 지원</a></li>
             <li>2024년 남부권역센터 비상주 오피스 지원 (연장)</li>
+            <li><a href="https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11060&menuNo=200061&sdate=&edate=&srchCnd=3&srchWrd=%EC%82%AC%EB%AC%B4%EC%8B%A4&pageIndex=1" target="_blank">2025년 서부권역센터 비상주 오피스 지원 (예정)</a></li>            
         </ul>
         </p>        
     </div>
