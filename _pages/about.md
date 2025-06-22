@@ -89,6 +89,14 @@ comments: false
             <li><a href="https://tumblbug.com/scrum-master" target="_blank">2022년 텀블벅 - 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
         </ul>
         </p>
+
+        <p class="mb-5">
+        <h3>경기콘텐츠진흥원 가상사무실</h3>
+        <ul>
+            <li><a href="https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=10797&menuNo=200061&sdate=&edate=&srchCnd=3&srchWrd=%EB%B9%84%EC%83%81%EC%A3%BC&pageIndex=2" target="_blank">2023년 남부권역센터 비상주 오피스 지원</a></li>
+            <li>2024년 남부권역센터 비상주 오피스 지원 (연장)</li>
+        </ul>
+        </p>        
     </div>
 
     <div class="col-md-4">
