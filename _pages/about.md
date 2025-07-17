@@ -64,7 +64,7 @@ comments: false
         <p class="mb-5">
         <h3>신상재</h3> 
         aka 번역하는 개발자 / 삼성SDS Software Architect<br/>
-        부산대학교 컴퓨터공학과 졸업 후 삼성SDS에서 소프트웨어 아키텍트와 품질 기술 업무를 하고 있다. 시스템을 기획, 설계, 개발, 운영하는 과정에서 축적된 지식과 엔지니어링 기법을 기술서를 읽고 입문서를 만드는 데 활용하고 있다. 역서로 『출근했더니 스크럼 마스터가 된 건에 관하여』, 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
+        부산대학교 컴퓨터공학과 졸업 후 삼성SDS에서 소프트웨어 아키텍트와 품질 기술 업무를 하고 있다. 시스템을 기획, 설계, 개발, 운영하는 과정에서 축적된 지식과 엔지니어링 기법을 기술서를 읽고 입문서를 만드는 데 활용하고 있다. 역서로 『캐릭터 일러스트 강좌 with 클립 스튜디오 페인트』, 『캐릭터 일러스트 강좌 with 프로크리에이트』, 『출근했더니 스크럼 마스터가 된 건에 관하여』, 『처음 배우는 그래픽 레코딩』, 『사고법 도감』, 『딥러닝을 위한 수학』, 『비즈니스 프레임워크 도감』, 『인공지능을 위한 수학』, 『1억배 빠른 양자 컴퓨터가 온다』, 『스프링 철저 입문』, 『클라우드 인프라와 API의 구조』, 『TCP/IP 쉽게, 더 쉽게』, 『네트워크 엔지니어의 교과서』, 『XCODE로 배우는 코코아 프로그래밍』, 『OBJECTIVE C』가 있다.
         <ul>
             <li><a href="https://codelabor.github.io/translating-developer/" target="_blank">번역서 목록</a></li>
         </ul>
@@ -89,6 +89,15 @@ comments: false
             <li><a href="https://tumblbug.com/scrum-master" target="_blank">2022년 텀블벅 - 출근했더니 스크럼 마스터가 된 건에 관하여</a></li>
         </ul>
         </p>
+
+        <p class="mb-5">
+        <h3>경기콘텐츠진흥원 가상사무실</h3>
+        <ul>
+            <li><a href="https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=10797&menuNo=200061&sdate=&edate=&srchCnd=3&srchWrd=%EB%B9%84%EC%83%81%EC%A3%BC&pageIndex=2" target="_blank">2023년 남부권역센터 비상주 오피스 지원</a></li>
+            <li>2024년 남부권역센터 비상주 오피스 지원 (연장)</li>
+            <li><a href="https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11060&menuNo=200061&sdate=&edate=&srchCnd=3&srchWrd=%EC%82%AC%EB%AC%B4%EC%8B%A4&pageIndex=1" target="_blank">2025년 서부권역센터 비상주 오피스 지원 (예정)</a></li>            
+        </ul>
+        </p>        
     </div>
 
     <div class="col-md-4">
