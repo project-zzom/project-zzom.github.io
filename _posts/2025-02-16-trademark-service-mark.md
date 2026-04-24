@@ -6,7 +6,7 @@ categories: [ 특허, 상표, 서비스표, 소상공인지원 ]
 tags: [ 특허, 상표, 서비스표, 소상공인지원 ]
 image: "assets/images/ai-model/girlwhite-board-office-look.png"
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 상표 셀프 등록, 대리인 등록, 소상공인 지원 모두 겪어본 팁 공유합니다.
 excerpt: 상표 셀프 등록, 대리인 등록, 소상공인 지원 모두 겪어본 팁 공유합니다.

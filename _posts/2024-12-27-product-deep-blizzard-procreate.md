@@ -6,7 +6,7 @@ categories: [ 프로크리에이트, 캐릭터, 일러스트 ]
 tags: [ 프로크리에이트, 캐릭터, 일러스트 ]
 image: assets/images/products/deep-blizzard-procreate/cover-front-ko.jpg
 description: 
-featured: true
+featured: false
 product: true
 hidden: false
 beforetoc: 쉽고 빠르게 디지털 페인팅 입문하기

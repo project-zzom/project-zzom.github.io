@@ -6,7 +6,7 @@ categories: [ 일러스트 ]
 tags: [ 일러스트, 마츠오카 신지, 松岡 伸治]
 image: assets/images/book-review/pose-knowhow/cover-ko.jpg
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 마츠오카 신지(松岡 伸治) 작가의 '일러스트와 만화를 위한 포즈 노하우(イラスト、漫画のためのポーズの描画教室)'을 읽은 후기입니다.
 excerpt: 마츠오카 신지(松岡 伸治) 작가의 '일러스트와 만화를 위한 포즈 노하우(イラスト、漫画のためのポーズの描画教室)'을 읽은 후기입니다.

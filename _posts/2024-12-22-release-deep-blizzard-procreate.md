@@ -6,7 +6,7 @@ categories: [ 프로크리에이트, 캐릭터, 일러스트 ]
 tags: [ 프로크리에이트, 캐릭터, 일러스트 ]
 image: assets/images/products/deep-blizzard-procreate/thumbnail-release.png
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 오래 기다리셨습니다. 드디어 12/27 출간합니다!
 excerpt: 오래 기다리셨습니다. 드디어 12/27 출간합니다!
