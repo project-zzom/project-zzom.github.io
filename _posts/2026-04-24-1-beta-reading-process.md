@@ -6,7 +6,7 @@ categories: [ 베타 리딩, 클립 스튜디오 페인트 ]
 tags: [ 독자 참여 ]
 image: assets/images/beta-reading/deep-blizzard-clip-studio-paint/beta-reading-process-thumbnail.png
 description: 
-featured: false
+featured: true
 hidden: false
 beforetoc: 독자지만 책 제작에 참여할 수 있어요!
 excerpt: 독자지만 책 제작에 참여할 수 있어요!
