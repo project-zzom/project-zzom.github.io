@@ -28,8 +28,8 @@ product: false
 베타 리딩 절차를 확인한 후엔 베타 리딩 피드백과 후기 작성 방법은 아래 내용을 참고하세요.
 
 <ul>
-    <li><a href="{{ site.baseurl }}/2-beta-reading-feedback" target="_blank">베타 리더 피드백 가이드</a></li>
-    <li><a href="{{ site.baseurl }}/3-beta-reading-review" target="_blank">베타 리더 후기 작성 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/2-beta-reading-feedback-clip-studio-paint" target="_blank">베타 리더 피드백 가이드</a></li>
+    <li><a href="{{ site.baseurl }}/3-beta-reading-review-clip-studio-paint" target="_blank">베타 리더 후기 작성 가이드</a></li>
 </ul>
 
 ### 간략한 안내
