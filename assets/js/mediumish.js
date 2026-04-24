@@ -127,3 +127,17 @@ if (raf) raf(function () {
 	window.setTimeout(loadDeferredStyles, 0);
 });
 else window.addEventListener('load', loadDeferredStyles);
+
+// 해시태그 오류 수정
+window.addEventListener('load', function() {
+  if (window.location.hash) {
+    // 인코딩된 해시를 원래 한글로 복구하여 요소를 찾습니다.
+    var hash = decodeURIComponent(window.location.hash);
+    var target = document.querySelector(hash);
+    if (target) {
+      setTimeout(function() {
+        target.scrollIntoView();
+      }, 100); // 0.1초의 여유를 두어 레이아웃 고정 후 이동
+    }
+  }
+});

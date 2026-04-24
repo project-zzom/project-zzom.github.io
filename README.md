@@ -4,10 +4,15 @@
 
 ```
 gem install bundler
-gem install bundle
+(지워도 될 듯) gem install bundle
 bundle install
-bundle update
 bundle exec jekyll serve
+```
+
+```
+bundle exec jekyll serve --livereload: 파일을 수정하면 브라우저를 새로고침하지 않아도 자동으로 화면이 바뀝니다. (강력 추천!)
+bundle exec jekyll serve --drafts: 아직 발행하지 않은 _drafts 폴더의 포스팅도 미리보기에 포함합니다.
+bundle exec jekyll serve --incremental: 변경된 파일만 골라서 빌드하므로 속도가 훨씬 빨라집니다.
 ```
 
 ## 스포일러 기능 사용 방법
