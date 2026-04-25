@@ -146,6 +146,10 @@ markdown 문서에 다음과 같이 iframe을 삽입한다.
 When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as specified in `Gemfile.lock` to ensure your Jekyll site builds with no compatibility or dependency conflicts.
 ```
 
+## 하이라이트 방법
+
+\<mark>\</mark>로 감싼다.
+
 ## TOC 사용 방법
 
 'beforetoc', 'toc' 항목을 활용한다.
