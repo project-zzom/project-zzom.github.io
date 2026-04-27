@@ -66,7 +66,7 @@ ZZOM에서는 2026년 7월 31일에 출간 예정인 '캐릭터 일러스트 강
 베타 리더 모집 및 활동 기간은 아래와 같습니다. 조기 선발되는 경우 일찍 시작할 수 있습니다.
 
 * 공모 기간: ~ 2026/05/08
-* 활동 기간: ~ 2024/05/31
+* 활동 기간: ~ 2026/05/31
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/beta-reading/process/beta-reading-feedback-flow.png" target="_blank">
