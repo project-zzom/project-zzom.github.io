@@ -10,7 +10,7 @@ favicon: 'favicon.ico'
 # baseurl: 
 
 # google
-google_analytics: 'G-FL5818NYCK'
+google_analytics: 'G-FL5818NYCK' # 스트림 ID: 4304506887, 측정 ID: G-FL5818NYCK
 google_tag_manager: 'GTM-W52NS3HZ'
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "enabled"
@@ -18,6 +18,14 @@ adsense-data-ad-client: "ca-pub-5050141342916334"
 #adsense-data-ad-slot-vertical: "9543862036"
 #adsense-data-ad-slot-horizontal: "2009821092"
 #adsense-data-ad-slot-square: "1542083085"
+
+google_merchant_center_site_verification: "kouqY7OdX5bp6dgYP7opGr9NPws1zE_Dkz9ZuWFDHqw"
+
+# naver
+naver_site_verification: "81a9305f4317935f1bb5348e7e02bc6b9f2f3fba"
+
+# face
+facebook_site_verification: "dvxikk08qslnjejnolfswtit7u3siq"
 
 # mail-list: 
   # mailchimp: 'https://gmail.us2.list-manage.com/subscribe/post?u=f0c2c860abc78e38661cc5458&amp;id=fa3043bfc8'
