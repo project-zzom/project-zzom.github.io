@@ -6,7 +6,7 @@ categories: [ 베타 리딩, 그래픽 레코딩, 스크럼 마스터, 클립 �
 tags: [ 독자 참여 ]
 image: assets/images/beta-reading/deep-blizzard-clip-studio-paint/beta-reading-review-thumbnail.png
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 베타 리더 후기는 이렇게 작성하세요.
 excerpt: 베타 리더 후기는 이렇게 작성하세요.

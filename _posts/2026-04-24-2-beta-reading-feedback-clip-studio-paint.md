@@ -6,7 +6,7 @@ categories: [ 베타 리딩, 클립 스튜디오 페인트 ]
 tags: [ 독자 참여 ]
 image: assets/images/beta-reading/deep-blizzard-clip-studio-paint/beta-reading-feedback-thumbnail.png
 description: 
-featured: true
+featured: false
 hidden: false
 beforetoc: 베타 리더 피드백 이렇게 작성하세요.
 excerpt: 베타 리더 피드백은 이렇게 작성하세요.
