@@ -245,10 +245,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} <br/>
-                상호: 쫌(ZZOM) | 대표자: 신상재 | 이메일: project.zzom@gmail.com | 전화: 0507-0177-4370<br/>
-                주소: 경기도 성남시 분당구 대왕판교로 645번길 12 경기창조경제혁신센터 8, 9층 50호<br/>
-                사업자 등록번호: 526-93-01008 | 통신판매업 신고번호: 제2023-성남분당A-1212호
+                Copyright © {{site.time | date: "%Y"}} {{ site.name }} <br/>
+                상호: {{ site.corp.name }} | 대표자: {{ site.corp.owner }} | 이메일: {{ site.corp.email }} | 전화: {{ site.corp.phone }}<br/>
+                주소: {{ site.corp.address }}<br/>
+                사업자 등록번호: {{ site.corp.registration-number-business }} | 통신판매업 신고번호: {{ site.corp.registration-number-ecommerce }}
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net

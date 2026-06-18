@@ -54,6 +54,16 @@ authors:
     twitter: https://x.com/codelabor
     description: "읽어 보니 좋았던 책을 함께 볼 수 있게 번역합니다"  
 
+# Corporate Information
+corp:
+  name: "쫌(ZZOM)"
+  owner: "신상재"
+  email: project.zzom@gmail.com
+  phone: "0507-0177-4370"
+  address: "경기도 부천시 부천로 198번길 18 춘의테크노파크 2차 202동 10층 서부 경기문화창조허브 가상사무실 V1"
+  registration-number-business: "526-93-01008"
+  registration-number-ecommerce: "제2025-부천원미-1540호"
+
 # Plugins
 plugins:
   - jekyll-paginate
