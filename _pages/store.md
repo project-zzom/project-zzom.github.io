@@ -31,10 +31,8 @@ comments: false
             <img class="" src="{{site.baseurl}}/assets/images/products/thumbnail/clip-studio-paint (1024 x 1024).png" alt="clip-studio-paint" />
         </figure>
         <h3>캐릭터 일러스트 강좌 with 클립 스튜디오 페인트</h3>
-        <!--
         <a href="https://zzom.io/character-illustration-with-clip-studio-paint/" target="_blank" class="link-shop">도서 지원 페이지</a>
         <br/>
-        -->
         <p>준비 중</p>
     </div>
     <div class="col-lg-3 col-md-6">
