@@ -17,8 +17,6 @@ comments: true
 rating: # 1~5까지 점수
 last_modified_at: # YYYY-MM-DD
 
-
-
 ---
 
 ## 책 소개
