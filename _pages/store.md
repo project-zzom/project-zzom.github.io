@@ -12,7 +12,7 @@ comments: false
             <li>
             ZZOM 스토어: <a href="https://smartstore.naver.com/zzom/" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
             <a href="https://store.kakao.com/zzom" target="_blank" class="link-shop">카카오 톡딜</a> / 
-            <a href="https://shop.coupang.com/zzom" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+            <!--<a href="https://shop.coupang.com/zzom" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
             <a href="https://service.toss.im/shopping-discovery/s/16101" target="_blank" class="link-shop">토스 쇼핑</a>
             </li>
             <li>
@@ -35,7 +35,7 @@ comments: false
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/13721977179" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/777417650" target="_blank" class="link-shop">카카오 톡딜</a> / 
-        <a href="https://www.coupang.com/vp/products/9695486026?itemId=28999822085" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+        <!--<a href="https://www.coupang.com/vp/products/9695486026?itemId=28999822085" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="https://toss.im/_m/nzTkuYfc" target="_blank" class="link-shop">토스 쇼핑</a>
         <!-- / 
         <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="link-shop">교보문고</a> / 
@@ -52,7 +52,7 @@ comments: false
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/11203326459" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/459598383" target="_blank" class="link-shop">카카오 톡딜</a> / 
-        <a href="https://www.coupang.com/vp/products/8486619053?itemId=24561130530" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+        <!--<a href="https://www.coupang.com/vp/products/8486619053?itemId=24561130530" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="https://toss.im/_m/txFbMpWy" target="_blank" class="link-shop">토스 쇼핑</a> / 
         <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="link-shop">알라딘</a> / 
@@ -67,7 +67,7 @@ comments: false
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="link-shop">카카오 톡딜</a> / 
-        <a href="https://www.coupang.com/vp/products/7818693366?itemId=21229627613" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+        <!--<a href="https://www.coupang.com/vp/products/7818693366?itemId=21229627613" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="https://toss.im/_m/PhsWjZFx" target="_blank" class="link-shop">토스 쇼핑</a> / 
         <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="link-shop">알라딘</a> / 
@@ -82,7 +82,7 @@ comments: false
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/327297939" target="_blank" class="link-shop">카카오 톡딜</a> / 
-        <a href="https://www.coupang.com/vp/products/7818691318?itemId=21229618640" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+        <!--<a href="https://www.coupang.com/vp/products/7818691318?itemId=21229618640" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="https://toss.im/_m/r2e5SrAx" target="_blank" class="link-shop">토스 쇼핑</a> / 
         <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank" class="link-shop">알라딘</a> / 
@@ -99,7 +99,7 @@ comments: false
         <h3>스크럼 마스터 + 플래닝 화투 + 개발자 팔찌</h3>
         <a href="https://smartstore.naver.com/zzom/products/9369262815" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/327309340" target="_blank" class="link-shop">카카오 톡딜</a> / 
-        <a href="https://www.coupang.com/vp/products/7818693379?itemId=21229627719" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+        <!--<a href="https://www.coupang.com/vp/products/7818693379?itemId=21229627719" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="" target="_blank" class="link-shop">토스 쇼핑</a>
     </div>
     <div class="col-lg-3 col-md-6">
@@ -111,7 +111,7 @@ comments: false
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="link-shop">카카오 톡딜</a> / 
-        <a href="https://www.coupang.com/vp/products/7818693397?itemId=21229627810" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
+        <!--<a href="https://www.coupang.com/vp/products/7818693397?itemId=21229627810" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="https://toss.im/_m/V9DG8dsB" target="_blank" class="link-shop">토스 쇼핑</a>
     </div>
     <div class="col-lg-3 col-md-6">
