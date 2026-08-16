@@ -100,7 +100,7 @@ comments: false
         <a href="https://smartstore.naver.com/zzom/products/9369262815" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
         <a href="https://store.kakao.com/zzom/products/327309340" target="_blank" class="link-shop">카카오 톡딜</a> / 
         <a href="https://www.coupang.com/vp/products/7818693379?itemId=21229627719" target="_blank" class="link-shop">쿠팡 마이샵</a> / 
-        <a href="https://www.postype.com/@project-zzom/goods/18567074" target="_blank" class="link-shop">포스타입</a>
+        <a href="" target="_blank" class="link-shop">토스 쇼핑</a>
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
