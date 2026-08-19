@@ -8,6 +8,8 @@ comments: false
 <div class="row">
     <div class="col">
         <h2>판매 채널</h2>
+        <p class="notice"><strong>어필리에이트 안내</strong><br>
+        <a href="https://m.site.naver.com/1Lqc9" target="_blank">클립 스튜디오 페인트</a>, 알리 익스프레스, 토스 쇼핑, Yes24의 링크를 통해 구매가 이루어지는 경우 일정액의 수수료를 제공받을 예정입니다. 과연 인출 가능 금액을 넘어설 수 있을까 반신반의합니다만 그럼에도 불구하고 행여나 인출할 수 있게 되면 다음 책을 준비하는 데 활용하겠습니다. 늘 도움 주시고 응원해 주셔서 감사합니다! :)</p>
         <ul>
             <li>
             ZZOM 스토어: <a href="https://smartstore.naver.com/zzom/" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
@@ -38,11 +40,9 @@ comments: false
         <!--<a href="https://www.coupang.com/vp/products/9695486026?itemId=28999822085" target="_blank" class="link-shop">쿠팡 마이샵</a> / -->
         <a href="https://toss.im/_m/nzTkuYfc" target="_blank" class="link-shop">토스 쇼핑</a>
         <br/>
-        <!-- / 
-        <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="link-shop">교보문고</a> / 
-        <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="link-shop">Yes24</a>
-        -->
+        <a href="http://product.kyobobook.co.kr/detail/S000220922288" target="_blank" class="link-shop">교보문고</a> / 
+        <a href="https://aladin.kr/p/HSYm7" target="_blank" class="link-shop">알라딘</a> / 
+        <a href="https://link.yes24.com/a/LdF9SU3g2K" target="_blank" class="link-shop">Yes24</a>
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
@@ -58,7 +58,7 @@ comments: false
         <br/> 
         <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://www.yes24.com/Product/Goods/139938349" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdFpWGyper" target="_blank" class="link-shop">Yes24</a>
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
@@ -74,7 +74,7 @@ comments: false
         <br/> 
         <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://www.yes24.com/Product/Goods/115143425" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdFpX6cn4h" target="_blank" class="link-shop">Yes24</a>
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
@@ -90,7 +90,7 @@ comments: false
         <br/> 
         <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://www.yes24.com/Product/Goods/103597086" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdFpXqwKmF" target="_blank" class="link-shop">Yes24</a>
     </div>
 </div>
 
