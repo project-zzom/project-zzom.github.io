@@ -41,7 +41,8 @@ comments: false
         <br/>
         <a href="http://product.kyobobook.co.kr/detail/S000220922288" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://aladin.kr/p/HSYm7" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://link.yes24.com/a/LdF9SU3g2K" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdF9SU3g2K" target="_blank" class="link-shop">Yes24</a> <!-- / 
+        <a href="" target="_blank" class="link-shop">Google Play 도서</a> -->
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
@@ -57,7 +58,8 @@ comments: false
         <br/> 
         <a href="https://product.kyobobook.co.kr/detail/S000214869913" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353471467" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://link.yes24.com/a/LdFpWGyper" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdFpWGyper" target="_blank" class="link-shop">Yes24</a> / 
+        <a href="https://play.google.com/store/books/details/?id=IUo8EQAAQBAJ&hl=ko" target="_blank" class="link-shop">Google Play 도서</a>
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
@@ -73,7 +75,8 @@ comments: false
         <br/> 
         <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://link.yes24.com/a/LdFpX6cn4h" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdFpX6cn4h" target="_blank" class="link-shop">Yes24</a> / 
+        <a href="https://play.google.com/store/books/details/?id=jzrrEAAAQBAJ&hl=ko" target="_blank" class="link-shop">Google Play 도서</a>
     </div>
     <div class="col-lg-3 col-md-6">
         <figure>        
@@ -89,7 +92,8 @@ comments: false
         <br/> 
         <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="link-shop">교보문고</a> / 
         <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank" class="link-shop">알라딘</a> / 
-        <a href="https://link.yes24.com/a/LdFpXqwKmF" target="_blank" class="link-shop">Yes24</a>
+        <a href="https://link.yes24.com/a/LdFpXqwKmF" target="_blank" class="link-shop">Yes24</a> / 
+        <a href="https://play.google.com/store/books/details/?id=XTrrEAAAQBAJ&hl=ko" target="_blank" class="link-shop">Google Play 도서</a>
     </div>
 </div>
 
