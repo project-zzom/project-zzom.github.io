@@ -65,7 +65,7 @@ comments: false
         <figure>        
             <img class="" src="{{site.baseurl}}/assets/images/products/thumbnail/scrum-master (1024 x 1024).png" alt="procreate" />
         </figure>
-        <h3>애자일 개발이 처음인 내가 / 출근했더니 스크럼 마스터가 된 건에 관하여</h3>
+        <h3>출근했더니 스크럼 마스터가 된 건에 관하여</h3>
         <a href="https://zzom.io/scrum-master/" target="_blank" class="link-shop">도서 지원 페이지</a>
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
@@ -82,7 +82,7 @@ comments: false
         <figure>        
             <img class="" src="{{site.baseurl}}/assets/images/products/thumbnail/graphic-recording  (1024 x 1024).png" alt="procreate" />
         </figure>
-        <h3>처음 배우는 그래픽 레코딩 / 비주얼 씽킹으로 이야기를 기록하는 방법</h3>
+        <h3>비주얼 씽킹으로 이야기를 기록하는 방법</h3>
         <a href="https://zzom.io/graphic-recording/" target="_blank" class="link-shop">도서 지원 페이지</a>
         <br/>
         <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="link-shop">네이버 스마트스토어</a> / 
